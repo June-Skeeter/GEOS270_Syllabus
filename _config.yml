@@ -13,15 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Docs
-description: A Jekyll theme for documentation
-baseurl: "/GEOS270W1" # the subpath of your site, e.g. /blog
-url: "https://june-skeeter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/"
-]
+
+# title: Just the Docs
+# description: A Jekyll theme for documentation
+# baseurl: "/GEOS270W1" # the subpath of your site, e.g. /blog
+# url: "https://june-skeeter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# permalink: pretty
+# exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
+# , "docs/tests/"
+# ]
 
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
@@ -34,3 +36,18 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 
 # Enable or disable the site search
 # Supports true (default) or false
+
+title: Geographic Information Science
+remote_theme: ubc-library-rc/rc-workshop-template
+search_enabled: false
+github_repo_url: "https://github.com/June-Skeeter/GEOS270W1"
+
+# license information for workshop content
+license_name: "Creative Commons Attribution 4.0 International License"
+license_url: "http://creativecommons.org/licenses/by/4.0/"
+license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+
+# required for building jekyll site locally
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
