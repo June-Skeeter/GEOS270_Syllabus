@@ -17,6 +17,8 @@ nav_order: 2
 |[Module 8](Docs/Module8.md)|Nov 22 & Nov 24               |Ethics in GIS                                              |Final Projects                     |
 |[Module 9](Docs/Module9.md)|Nov 29 & Dec 1                |Exam Review                                                |Final Projects                     |
 |Final Exam                 |Dec 13 - Dec 15               |Asynchronous "takehome" exam                               |                                   |
+
+
 <!-- 
 
 ## Lecture Schedule:
