@@ -4,20 +4,6 @@ title: Schedule
 nav_order: 2
 ---
 
-# Lecture Schedule
-|          Module           |            Dates             |                           Topic                           |          Lab Assignment           |
-|---------------------------|------------------------------|-----------------------------------------------------------|-----------------------------------|
-|[Module 1](Docs/Module1.md)|Sept 13 & Sept 15             |History of GIS                                             |Intro to ArcGIS Pro                |
-|[Module 2](Docs/Module2.md)|Sept 20 & Sept 22             |Coordinate Reference Systems                               |Projections                        |
-|[Module 3](Docs/Module3.md)|Sept 27 & Sept 29             |Spatial Data Models                                        |Data Models                        |
-|[Module 4](Docs/Module4.md)|Oct 4, Oct 6, Oct 11 & Oct 13 |Spatial Analysis Methods<br>Spatial Inference and Modelling|Risk Assessment                    |
-|[Module 5](Docs/Module5.md)|Oct 18, Oct 20, Oct 25, Oct 27|Data Normalization, Classification & Visualization         |Make A Pretty MapN/A Mid-Term Break|
-|[Module 6](Docs/Module6.md)|Nov 1 & Nov 3                 |Error, Spatial Bias, and Logical Fallacies                 |Geocoding & Web Mapping            |
-|[Module 7](Docs/Module7.md)|Nov 15 & Nov 17               |Final Project Introduction                                 |Final Projects                     |
-|[Module 8](Docs/Module8.md)|Nov 22 & Nov 24               |Ethics in GIS                                              |Final Projects                     |
-|[Module 9](Docs/Module9.md)|Nov 29 & Dec 1                |Exam Review                                                |Final Projects                     |
-|Final Exam                 |Dec 13 - Dec 15               |Asynchronous "takehome" exam                               |                                   |
-<!-- 
 
 ## Lecture Schedule:
 
@@ -48,4 +34,3 @@ nav_order: 2
 | Lab  5                 | Week 10		      | Tsunami Risk Assessment 								 |
 | Final Project          | Dec 8              | GIS Research and Applications, Ethics in GIS, Review     |
 
- -->
