@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Schedule
-nav_order: 2
+title: Module 1
+nav_order: 3
 ---
 
 
