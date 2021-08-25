@@ -6,6 +6,9 @@ nav_order: 1
 
 # Geographic Information Science
 
+The study of geographic information!
+
+
 ## Land Acknowledgement
 
 I am speaking to you today from the traditional, ancestral, and unceded territory of the Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations.  This data map was pulled from [native-land.ca](https://native-land.ca/).  This is by no means a definitive source, but it's a good place to start building an understanding of the Indigenous territories, languages, and treaties in your area.
