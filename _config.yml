@@ -38,7 +38,7 @@
 # Supports true (default) or false
 
 title: Geographic Information Science
-remote_theme: ubc-library-rc/rc-workshop-template
+remote_theme: June-Skeeter/rc-workshop-template
 search_enabled: false
 github_repo_url: "https://github.com/June-Skeeter/GEOS270W1"
 
