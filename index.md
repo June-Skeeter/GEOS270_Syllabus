@@ -1,96 +1,131 @@
 ---
 layout: default
-title: Home
+title: Syllabus
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# Geographic Information Science
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+## Land Acknowledgement
+
+I am speaking to you today from the traditional, ancestral, and unceded territory of the Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations.  This data map was pulled from [native-land.ca](https://native-land.ca/).  This is by no means a definitive source, but it's a good place to start building an understanding of the Indigenous territories, languages, and treaties in your area.
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:100%; height:500px; border:none;"></iframe>
 
 
----
-<!-- 
-## Getting started
+## Course Overview:
 
-### Dependencies
+Welcome to introduction to GIS!  This course will expose you to key concepts and tools used to collect, map, and interpret geographic data.   We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using GIS to solve problems in both the natural and human realms.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+By the end of the course you will:
 
-### Quick start: Use as a GitHub Pages remote theme
+*    Learn what geospatial data is and why it is unique. 
+*    Understand how Geographic Information Systems function, and how they can be used to solve problems.
+*    Gain experience with the software packages commonly used in GIS.
+*    Be able to explain how real world features are represented as geospatial data in a Geographic Information System.
+*    Be able to explain and implement geospatial analysis methods to generate information from raw datasets.
+*    Learn how to visualize geospatial data by understanding and apply principles of good map design. 
+*    Demonstrate a practical working knowledge of ArcGIS Pro, a state-of-the-art GIS software package.
+*    Be able to explain and analyze sources of error in GIS analysis and output.
+*    Be able to discuss ethical implications of GIScience analysis inherent in issues of data quality, validity, reliability, privacy, and biases in GIS processing and display.
+*    Analyze and critique maps and other products that result from GIS analysis.
+*    Work collaboratively to synthesize and apply your learning to an independent project addressing a of your choosing.
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+## Course Format:
 
-### Local installation: Use the gem-based theme
+The course will consist of lecture modules twice a week with corresponding lecture quizzes, four lab assignments, a final project, and a final exam. 
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+| Evaluation                             |     |
+|----------------------------------------|-----|
+| Lab Assignments                        | 40% |
+| Final Project                          | 25% |
+| Final Exam                             | 20% |
+| Lecture Quizzes & Discussions          | 15% |
 
-### Configure Just the Docs
+* This is a tentative breakdown and may change slightly as the term progresses
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+## Laboratory Exercises:
 
----
+There will be 4 lab assignments worth a total of 40% of the final grade. Lab assignments provide hands-on, practical experience with the GIS software, and give students the opportunity to explore spatial analysis and the communication of geographic information.  Because this is an abbreviated summer term, you will only have one week to complete each lab exercises.  Lab assignments will be will be posted at 0:00 Thursday mornings and due at 23:59 the following Wednesday.  See the Lab Details page for more information.
 
-## About the project
+## Lecture Modules:
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+Each week, two lecture modules consisting of a series of lecture videos and a corresponding lecture quiz.  The marks for lecture quizzes will be 50% participation based (you get half points for just doing the quiz!) and 50% content based.  Lecture modules will be posted each week on Tuesdays and Thursdays at 0:00 PDT and the corresponding lecture quizzes will be due 48 hours after the module is posted.
 
-### License
+## Final Project:
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+The final project is an opportunity to apply the concepts learned in lecture and the skills learned in lab to any topic of interest.  Students will conduct a geospatial analysis of an issue of their choosing.  They will define a research question, acquire and analyze relevant data sets, produce visualizations, and write a brief project report and record a power point presentation.
 
-### Contributing
+## Final Exam:
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+There will be a comprehensive final exam in the course.  Details will be posted closer to the exam date.
 
-#### Thank you to the contributors of Just the Docs!
+ 
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+## Your Instructor:
 
-### Code of Conduct
+June Skeeter (They/Them/Theirs)
 
-Just the Docs is committed to fostering a welcoming community.
+Email: skeeter1@mail.ubc.ca
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
- -->
+Hi folks, my name is June.  I am a non-binary geographer and educator with a passion for social and ecological justice.  I use GIS extensively is my research studying climate change in the Arctic.  More recently, I've started using GIS to investigate police violence in Canada.  I've been teaching GIS for five years, first as a TA and now as an instructor.  My aim in teaching this course is to help show people how to use GIS as a tool to help make the world a better place.
+
+## Lecture Schedule:
+
+|            Week            |      Dates      |                Topic                |
+|----------------------------|-----------------|-------------------------------------|
+|[Week 1](Content/Week1.md)  |Sept 13 & Sept 15|History of GIS                       |
+|[Week 2](Content/Week2.md)  |Sept 20 & Sept 22|Coordinate Reference Systems         |
+|[Week 3](Content/Week3.md)  |Sept 27 & Sept 29|Spatial Data Models                  |
+|[Week 4](Content/Week4.md)  |Oct 4 & Oct 6    |Spatial Analysis Methods             |
+|[Week 5](Content/Week5.md)  |Oct 11 & Oct 13  |Data Normalization and Classification|
+|[Week 6](Content/Week6.md)  |Oct 18 & Oct 20  |Spatial Inference and Modelling      |
+|[Week 7](Content/Week7.md)  |Oct 25 & Oct 27  |                                     |
+|[Week 8](Content/Week8.md)  |Nov 1 & Nov 3    |Visualization                        |
+|[Week 9](Content/Week9.md)  |Nov 8 & Nov 10   |Spatial Bias & Fallacies             |
+|[Week 10](Content/Week10.md)|Nov 15 & Nov 17  |Error                                |
+|[Week 11](Content/Week11.md)|Nov 22 & Nov 24  |Ethics in GIS                        |
+|[Week 12](Content/Week12.md)|Nov 29 & Dec 1   |Exam Review                          |
+|Final Exam                  |Dec 13 - Dec 15  |Asynchronous "take-home" exam        |
+
+## Lab Schedule:
+
+| Assignment             | Due Date           | Topic                                                    |
+|------------------------|--------------------|----------------------------------------------------------|
+| Lab  1                 | Week 2             | Geocoding and Web Mapping                                |
+| Lab  2                 | Week 4             | ArcGIS Pro Tutorial                                      |
+| Lab  3                 | Week 6             | Projections    	 					                     |
+| Lab  4                 | Week 8             | Data Models    	 					                     |
+| Lab  5                 | Week 10		      | Tsunami Risk Assessment 								 |
+| Final Project          | Dec 8              | GIS Research and Applications, Ethics in GIS, Review     |
+
+
+
+ 
+
+## Communication:
+
+Office hours will be held weekly on Tuesdays & Thursdays 14:00-15:00 PDT (or by appointment) and can be accessed by this zoom link (Links to an external site.).  Office hours are your chance to ask me any questions you have about the course content.
+
+Please post general questions about course content, policies, etc. on the discussion board. Chances are that if you're confused about something, your classmates are too. Your TAs or I will respond within 24-48 hours. 
+
+For questions pertaining to your own personal situation:
+
+If they relate to the lab assignments, email your TA directly.
+For other questions, email June at skeeter1@mail.ubc.ca
+
+## Late Policy:
+
+Late lab assignments, lecture quizzes, and final projects will be penalized with the loss of 5% for each 24 hours it is late.  Exceptions to this may be made in advance on a case-by-case basis but must be confirmed by emailing your TA (for labs) or your instructor (for lecture quizzes/projects).
+
+## Accommodations:
+
+Students who wish to have an academic accommodation should contact Access and Diversity (https://students.ubc.ca/academic-success/academic-supports/academic-accommodations-disabilitiesLinks to an external site.) prior to the beginning of the course. Please discuss with your instructor within the first week of the course any special accommodations that would help to remove barriers to you doing your best work in the course.
+
+## Academic Integrity:
+
+The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity. At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is your work. Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed.
+
+Plagiarism and cheating will be taken very seriously.  The first incident of plagiarism/copying/cheating will result in a zero for the assignment.  Further incidents will be reported to the President’s Advisory Committee on Student Discipline in addition to a zero.
+
+A more detailed description of academic integrity, including the University’s policies and procedures, may be found here: https://learningcommons.ubc.ca/academic-integrity/Links to an external site.
