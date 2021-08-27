@@ -8,12 +8,12 @@ nav_order: 3
 # History of Geographic Information Science Intorduction to ArcGIS Pro
 
 
-<a href="Intorduction.html" target="_blank">View slides in new tab</a>
+<a href="docs/Intorduction.html" target="_blank">View slides in new tab</a>
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Intorduction.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="docs/Intorduction.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
