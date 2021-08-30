@@ -8,13 +8,11 @@ nav_order: 5
 
 Modules 1-7 will be weighted equally, module 8 will be weighted more heavily because it contains the final project.  The lowest scoring of Modules 1-7 will be dropped.  Assignments submitted by their due date will be marked and given feedback within 1 week.  There will be *no late penalties* for any assignments.  **However** assignments submitted after the due date are not entitled to prompt grading or feedback.  Depending on how late the submission is it may not be marked until the end of the semester and you may receive no feedback.  **No Submissions Will Be Accepted After the FInal Exam Date Without Prior Authorization**
 
-
 | Points Distribution                    |      |
 |----------------------------------------|------|
 | Modules 1-7                            | 60%  |
 | Module 8                               | 25%  |
 | Final Exam                             | 10%  |
-
 
 ## Final Grade Distribution
 
@@ -26,7 +24,6 @@ As per Geography Department policy, the average final grade will be approximatel
 |B    |68-79% |38%                |
 |C    |55-67% |29%                |
 |D & F|<= 54% |8%                 |
-
 
 # Accommodations
 

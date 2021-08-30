@@ -30,7 +30,6 @@ The UBC Geography department is on the traditional, ancestral, and unceded terri
 
 ## Communication:
 
-Office hours will be held weekly on Tuesdays & Thursdays 14:00-15:00 PDT (or by appointment) and can be accessed by this zoom link (Links to an external site.).  Office hours are your chance to ask me any questions you have about the course content.
 
 Please post general questions about course content, policies, etc. on the discussion board. Chances are that if you're confused about something, your classmates are too. Your TAs or I will respond within 24-48 hours. 
 
@@ -38,7 +37,3 @@ For questions pertaining to your own personal situation:
 
 If they relate to the lab assignments, email your TA directly.
 For other questions, email June at skeeter1@mail.ubc.ca
-
-## Late Policy:
-
-Late lab assignments, lecture quizzes, and final projects will be penalized with the loss of 5% for each 24 hours it is late.  Exceptions to this may be made in advance on a case-by-case basis but must be confirmed by emailing your TA (for labs) or your instructor (for lecture quizzes/projects).
