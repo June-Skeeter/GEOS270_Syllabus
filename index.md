@@ -6,19 +6,24 @@ nav_order: 1
 
 # Geographic Information Science
 
-## Land Acknowledgement
+[Learning Outcomes](#Learning-Outcomes)
 
-I am speaking to you today from the traditional, ancestral, and unceded territory of the Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations.  This data map was pulled from [native-land.ca](https://native-land.ca/).  This is by no means a definitive source, but it's a good place to start building an understanding of the Indigenous territories, languages, and treaties in your area.
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:100%; height:500px; border:none;"></iframe>
-
+[Evaluation](#Evaluation)
 
 ## Course Overview:
 
-Welcome to introduction to GIS!  This course will expose you to key concepts and tools used to collect, map, and interpret geographic data.   We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using GIS to solve problems in both the natural and human realms.
+Welcome to introduction to GIS!  This course will expose you to key concepts and tools used to collect, map, and interpret geographic data.  We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using GIS to solve problems in both the natural and human realms.
 
-By the end of the course you will:
+## Land Acknowledgement
 
-*    Learn what geospatial data is and why it is unique. 
+The UBC Geography department is on the traditional, ancestral, and unceded territory of the Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations.  This data is from [native-land.ca](https://native-land.ca/).  It is by no means a definitive source, but it's a good place to start building an understanding of the Indigenous territories, languages, and treaties in your area.
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:80%; height:400px; border:none;"></iframe>
+
+## Learning Outcomes
+
+* 
+
+*    Learn what makes geospatial data unique. 
 *    Understand how Geographic Information Systems function, and how they can be used to solve problems.
 *    Gain experience with the software packages commonly used in GIS.
 *    Be able to explain how real world features are represented as geospatial data in a Geographic Information System.
@@ -30,11 +35,16 @@ By the end of the course you will:
 *    Analyze and critique maps and other products that result from GIS analysis.
 *    Work collaboratively to synthesize and apply your learning to an independent project addressing a of your choosing.
 
+## Evaluation:
 
+The course will consist of 8 modules, each with a corresponding lab assignment and quiz, a final project, and a final exam. 
 
-## Course Format:
+| Points Breakdown                       |     |
+|----------------------------------------|-----|
+| Modules                                | 60% |
+| Final Project                          | 25% |
+| Final Exam                             | 15% |
 
-The course will consist of lecture modules twice a week with corresponding lecture quizzes, four lab assignments, a final project, and a final exam. 
 
 
 | Evaluation                             |     |
@@ -45,6 +55,8 @@ The course will consist of lecture modules twice a week with corresponding lectu
 | Lecture Quizzes & Discussions          | 15% |
 
 * This is a tentative breakdown and may change slightly as the term progresses
+
+
 
 ## Laboratory Exercises:
 
@@ -62,8 +74,6 @@ The final project is an opportunity to apply the concepts learned in lecture and
 
 There will be a comprehensive final exam in the course.  Details will be posted closer to the exam date.
 
- 
-
 ## Your Instructor:
 
 June Skeeter (They/Them/Theirs)
@@ -71,9 +81,6 @@ June Skeeter (They/Them/Theirs)
 Email: skeeter1@mail.ubc.ca
 
 Hi folks, my name is June.  I am a non-binary geographer and educator with a passion for social and ecological justice.  I use GIS extensively is my research studying climate change in the Arctic.  More recently, I've started using GIS to investigate police violence in Canada.  I've been teaching GIS for five years, first as a TA and now as an instructor.  My aim in teaching this course is to help show people how to use GIS as a tool to help make the world a better place.
-
-
- 
 
 ## Communication:
 
