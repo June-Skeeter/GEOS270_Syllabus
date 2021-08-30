@@ -46,17 +46,17 @@ Information about the Geography Computer Labs can be found [here](https://geog.u
 How to save and store your work on the Geography lab computers:
 During your lab, you should save your work to C: \ temp. This is a folder stored locally on the computer you are working on. Since it's the same machine you're working on, ArcGIS Pro can easily and quickly access and save files in this folder. However, these computers are used by multiple users, and each time a new user logs on, the C:/temp folder is at risk for being overwritten. Therefore, it is EXTREMELY IMPORTANT that you save your work elsewhere before you log off. When you sign up for your Geography lab account, you will be given space on the Geography server, known as your H:/ drive folder; we recommend you save your work here. To do so, follow these steps:
 
-        Save your Map document and close ArcGIS Pro or any other software you may be using (Word, Excel, e tc. ...)
-        Launch My Computer, and navigate to C: \ temp
-        From the top menu, Edit >Select All to select all files inside of C: \ temp
-        From the top menu, Edit > Co py to Folder and select H: \ from the window. Click Copy
+* Save your Map document and close ArcGIS Pro or any other software you may be using (Word, Excel, e tc. ...)
+* Launch My Computer, and navigate to C: \ temp
+* From the top menu, Edit >Select All to select all files inside of C: \ temp
+* From the top menu, Edit > Co py to Folder and select H: \ from the window. Click Copy
 
 When you come back next time to complete the assignment, you will transfer the files in the reverse direction. This is because the H:/ drive is stored on a networked server, not the local machine, and so your machine would work very slowly if you try to work directly from the H:/ drive. To transfer your files:
 
-        Log in
-        Use My Computer to find C: \ temp and delete all the files you find there since they are most likely not yours
-        Navigate to your H drive, select your current lab's folder , and copy it to C: \ temp
-        Resume your work
+* Log in
+* Use My Computer to find C: \ temp and delete all the files you find there since they are most likely not yours
+* Navigate to your H drive, select your current lab's folder , and copy it to C: \ temp
+* Resume your work
 
 Watch this video to see the steps you need to take when working with the geography labs.
 
