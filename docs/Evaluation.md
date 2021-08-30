@@ -1,27 +1,8 @@
 ---
 layout: default
-title: Schedule and Evaluation
-nav_order: 3
+title: Evaluation
+nav_order: 5
 ---
-
-
-# Course Schedule
-
-The course will consist of eight modules.  Each module will have a corresponding lab assignment and module quiz or discussion assignment.  
-
-|  Module  |                Dates                 |                              Topics                               |
-|----------|--------------------------------------|-------------------------------------------------------------------|
-|Module 1  |Sept 8, Sept 13 & Sept 15             |History of GIS & Intro to ArcGIS Pro                               |
-|Module 2  |Sept 20 & Sept 22                     |Coordinate Reference Systems                                       |
-|Module 3  |Sept 27, Sept 29, Oct 4, Oct 6        |Spatial Data Models & Spatial Data Collection                      |
-|Module 4  |Oct 11 & Oct 13, Oct 18 & Oct 20      |Spatial Analysis Methods, Spatial Inference Methods & GIS Workflows|
-|Module 5  |Oct 25, Oct 27                        |Data Normalization, Classification, Visualization, & Web Mapping   |
-|Module 6  |Nov 1 & Nov 3                         |Error, Spatial Bias, and Logical Fallacies                         |
-|Module 7  |Nov 8, Nov 15 & Nov 17                |Final Project Introduction, GIS Applications, and GIS in Research  |
-|Module 8  |Nov 22, Nov 24, Nov 29, Dec 1, & Dec 6|Ethics in GIS, Finishing Projects and Exam Review                  |
-|Final Exam|Dec 13 - Dec 15                       |Asynchronous "takehome" exam                                       |
-
-
 
 # Course Evaluation
 
@@ -49,13 +30,12 @@ As per Geography Department policy, the average final grade will be approximatel
 
 # Accommodations
 
-My aim for this semester is to be as flexible and supportive as possible while respecting my personal boundaries and those of the TAs.  Please contact the [Center for Accessibility](https://students.ubc.ca/about-student-services/centre-for-accessibility) if you require accommodations for a disability and make me aware any necessary accommodations by email in a timely manner.  If you require an [Academic Concession](https://www.arts.ubc.ca/degree-planning/academic-performance/academic-concession/) please email me promptly so that we can work together to figure out an accommodation that works for you.  You are under no obligation explain your circumstances to me to justify the concession request.  Here is a template concession request:
+My aim for this semester is to be as flexible and supportive as possible while respecting my personal boundaries and those of the TAs.  Please contact the [Center for Accessibility](https://students.ubc.ca/about-student-services/centre-for-accessibility) if you require accommodations for a disability and make me aware any necessary accommodations by email in a timely manner.  If you require an [Academic Concession](https://www.arts.ubc.ca/degree-planning/academic-performance/academic-concession/) please email me promptly so that we can work together to figure out an accommodation that works for you.  You are not obligated to explain your personal circumstances to me to justify the concession.  If you require multiple concessions I may refer you to [Arts Advising](https://www.arts.ubc.ca/student-support/academic-support/academic-advising/). 
 
-	"Hi June,
+# Academic Integrity:
 
-	I am struggling with [insert assignment].  Can we meet to discuss an accommodation?
+The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity. At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is your work. Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed.
 
-	Thanks,
-	[insert name]"
+Plagiarism and cheating will be taken very seriously.  The first incident of plagiarism/copying/cheating will result in a zero for the assignment.  Further incidents will be reported to the President’s Advisory Committee on Student Discipline in addition to a zero.
 
-If you request multiple concessions I will also refer you to [Arts Advising](https://www.arts.ubc.ca/student-support/academic-support/academic-advising/). 
+A more detailed description of academic integrity, including the University’s policies and procedures, may be found [here](https://learningcommons.ubc.ca/academic-integrity/Links)

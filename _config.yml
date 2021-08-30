@@ -37,7 +37,7 @@
 # Enable or disable the site search
 # Supports true (default) or false
 
-title: Syllabus GEOS70 2021W1
+title: Syllabus GEOS270 2021W1
 # remote_theme: June-Skeeter/rc-workshop-template
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
