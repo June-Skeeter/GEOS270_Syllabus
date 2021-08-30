@@ -8,8 +8,7 @@ nav_order: 4
 
 A major part of your learning in this course apply GIScience to real-world data through your lab assignments. This page contains details about how to access the Labs how your labs will run. Please review it in detail!
 
-You must be signed up for one of the following lab sections (all times in PST):
-
+You must be signed up for one of the following lab sections (all times in PDT/PST):
 
 |Lab |           Time slot    | TA      |Status              |
 |----|------------------------|---------|--------------------|
@@ -19,7 +18,9 @@ You must be signed up for one of the following lab sections (all times in PST):
 |L1D |Fridays 14:00-16:00     |Carla    |In-Person  (RM115)  |
 
 
-Lab 1A will meet synchronously on zoom, all others will meet in person at their scheduled times in room 115.  Lab attendance is strongly encouraged, but is not mandatory.  During the two hour lab periods, you will work on the lab assignment and have the opportunity to ask questions to your fellow classmates and TAs. 
+Lab 1A will meet synchronously on zoom, all others will meet in person at their scheduled times in room 115.  Lab attendance is strongly encouraged, but is not mandatory.  During the two hour lab periods, you will work on the lab assignment and have the opportunity to ask questions to your fellow classmates and TAs.
+
+Labs will meet every week of term with the exception of Week 1 (Sept 6-10) and Week 10 (Nov 8-12).  The Monday Lab section on Monday October 11th, will instead be hosted on [Ask Carla for alternate time/date & consult schedule]
 
 Though you may work together with your classmates on the assignments and help each other, ALL STUDENTS MUST SUBMIT THEIR OWN ORIGINAL WORK. This means that your maps must be your own, and your answers must be in your own words. Failure to submit your own work can result in failing the assignment or worse, so please be careful. See the Academic Integrity section of the Syllabus for more information.
 
@@ -59,6 +60,5 @@ When you come back next time to complete the assignment, you will transfer the f
 * Resume your work
 
 Watch this video to see the steps you need to take when working with the geography labs.
-
 
 [Insert Video Link]
