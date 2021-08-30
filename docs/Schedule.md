@@ -6,7 +6,8 @@ nav_order: 3
 
 # Course Schedule
 
-The course is made up of eight modules.  Each module will consist of lectures on the dates listed and have a corresponding module quiz/discussion.  The first seven modules will also have a corresponding lab assignment due on the date specified.  Module eight will will primarily be dedicated to the final projects.  The final exam will be a "take-home" exam, available from 0:00 PST Dec 13 to 23:59 PST Dec 15.
+The course is made up of eight modules.  Each module will consist of lectures on the dates listed and have a corresponding module quiz/discussion.  Monday lectures will consist of asynchronous video content.  Wednesday lectures will be in person, but will be available live on zoom (recordings tbd?).  The first seven modules will also have a corresponding lab assignment due on the date specified.  Module eight will will primarily be dedicated to the final projects.  The final exam will be a "take-home" exam, available from 0:00 PST Dec 13 to 23:59 PST Dec 15.  I will hold weekly in person office hours after lecture on Wednesdays.  Zoom office hours will be available by appointment, requests must me made at least day in advance.  
+
 
 |Module|            Lecturer Dates            |                              Topics                               |Due Date|
 |------|--------------------------------------|-------------------------------------------------------------------|--------|
@@ -22,4 +23,3 @@ The course is made up of eight modules.  Each module will consist of lectures on
 
 ## Office Hours
 
-I will hold weekly in person office hours after lecture on Wednesdays.  Zoom office hours will be available by appointment, requests must me made at least day in advance.  
