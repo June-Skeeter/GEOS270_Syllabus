@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lab Assignments
+title: Lab Access
 nav_order: 4
 ---
 
-## Lab Assignments
+## Lab Access
 
 A major part of your learning in this course apply GIScience to real-world data through your lab assignments. This page contains details about how to access the Labs how your labs will run. Please review it in detail!
 
