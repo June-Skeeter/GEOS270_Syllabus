@@ -1,12 +1,26 @@
 ---
 layout: default
 title: Schedule
-nav_order: 2
+nav_order: 4
 ---
 
 # Course Schedule
 
+|  Module  |                Dates                 |                              Topics                               |
+|----------|--------------------------------------|-------------------------------------------------------------------|
+|Module 1  |Sept 8, Sept 13 & Sept 15             |History of GIS & Intro to ArcGIS Pro                               |
+|Module 2  |Sept 20 & Sept 22                     |Coordinate Reference Systems                                       |
+|Module 3  |Sept 27, Sept 29, Oct 4, Oct 6        |Spatial Data Models & Spatial Data Collection                      |
+|Module 4  |Oct 11 & Oct 13, Oct 18 & Oct 20      |Spatial Analysis Methods, Spatial Inference Methods & GIS Workflows|
+|Module 5  |Oct 25, Oct 27                        |Data Normalization, Classification, Visualization, & Web Mapping   |
+|Module 6  |Nov 1 & Nov 3                         |Error, Spatial Bias, and Logical Fallacies                         |
+|Module 7  |Nov 8, Nov 15 & Nov 17                |Final Project Introduction, GIS Applications, and GIS in Research  |
+|Module 8  |Nov 22, Nov 24, Nov 29, Dec 1, & Dec 6|Ethics in GIS, Project Help and Exam Review                        |
+|Final Exam|Dec 13 - Dec 15                       |Asynchronous "takehome" exam                                       |
 
+
+
+<!-- 
 |          Module           |                Dates                 |                              Topics                               |
 |---------------------------|--------------------------------------|-------------------------------------------------------------------|
 |[Module 1](docs/Module1.md)|Sept 13 & Sept 15                     |History of GIS & Intro to ArcGIS Pro                               |
@@ -17,4 +31,4 @@ nav_order: 2
 |[Module 6](docs/Module6.md)|Nov 1 & Nov 3                         |Error, Spatial Bias, and Logical Fallacies                         |
 |[Module 7](docs/Module7.md)|Nov 8, Nov 15 & Nov 17                |Final Project Introduction, GIS Applications, and GIS in Research  |
 |[Module 8](docs/Module8.md)|Nov 22, Nov 24, Nov 29, Dec 1, & Dec 6|Ethics in GIS, Project Help and Exam Review                        |
-|Final Exam                 |Dec 13 - Dec 15                       |Asynchronous "takehome" exam                                       |
+|Final Exam                 |Dec 13 - Dec 15                       |Asynchronous "takehome" exam                                       | -->
