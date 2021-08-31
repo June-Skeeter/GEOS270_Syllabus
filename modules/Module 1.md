@@ -8,6 +8,7 @@ nav_order: 1
 
 # History of Geographic Information Science Intorduction to ArcGIS Pro
 
+## What is GIS anyway?
 
 <a href="Introduction.html" target="_blank">View slides in new tab</a>
 
