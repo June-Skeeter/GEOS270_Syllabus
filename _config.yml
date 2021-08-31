@@ -40,8 +40,12 @@
 title: Syllabus GEOS270 2021W1
 # remote_theme: June-Skeeter/rc-workshop-template
 remote_theme: pmarsceill/just-the-docs
-search_enabled: false
+search_enabled: true
 github_repo_url: "https://github.com/June-Skeeter/GEOS270W1"
+
+
+# Enable or disable heading anchors
+heading_anchors: true
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
