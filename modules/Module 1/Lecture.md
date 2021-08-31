@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lecture Module 1
+title: Lecture
 parent: Modules 1
 grand_parent: Modules
 nav_order: 1
@@ -27,11 +27,4 @@ nav_order: 1
  </iframe>
 </div>
 
-
-
-# Deliverables
-
-Complete the [lecture quiz]()
-
-Complete the [lab assignment](https://june-skeeter.github.io/GEOB270_Lab1_2021S1/)
 
