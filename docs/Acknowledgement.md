@@ -7,27 +7,7 @@ nav_order: 1
 
 # Land Acknowledgement
 
-UBC and the city of Vancouver is on the traditional, ancestral, and unceded territory of multiple Peoples including the xʷməθkʷəy̓əm , səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations, and S’ólh Téméxw (Stó:lō) people.  The xʷməθkʷəy̓əm, səl̓ilwətaɁɬ təməxʷ, and Skwxwú7mesh-ulh Temíx̱w people occupied these lands for thousands of years before settlers arrived in .  It is important to acknowledge, appreciate, and reflect on this fact. 
-
-
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="https://upload.wikimedia.org/wikipedia/commons/3/39/Coast_Salish_language_map.svg" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-
-
-<!-- <iframe src="https://upload.wikimedia.org/wikipedia/commons/3/39/Coast_Salish_language_map.svg" style="width:80%; height:400px; border:none;"></iframe>
- -->
-
+UBC and the city of Vancouver is on the traditional, ancestral, and unceded territory of multiple Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations, and S’ólh Téméxw (Stó:lō) people.  The xʷməθkʷəy̓əm, səl̓ilwətaɁɬ təməxʷ, and Skwxwú7mesh-ulh Temíx̱w people occupied these lands for thousands of years before settlers arrived.  Genocide has been perpetuated a against Indigenous people in settler societies across the globe, and in some ways this genocide is still ongoing in British Columbia.  For decades there has been concerted effort by the government to erase Indigenous cultures from the land and erase them from the map.  
 
 <iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:80%; height:400px; border:none;"></iframe>
 

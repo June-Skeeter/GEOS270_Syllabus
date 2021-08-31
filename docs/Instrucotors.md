@@ -2,7 +2,7 @@
 layout: default
 title: Introductions
 parent: Syllabus
-nav_order: 1
+nav_order: 2
 ---
 
 # Introductions
@@ -59,7 +59,7 @@ I'm a PhD student here in Geography. My research is in plant ecology and biogeog
   position: relative">
   <iframe src="Mike.jpg" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
-   height: 100%;
+   height: 80%;
    left: 0;
    position: absolute;
    top: 0;
@@ -71,3 +71,16 @@ I'm a PhD student here in Geography. My research is in plant ecology and biogeog
 My name is Mike Turley and my pronouns are he/him/his.  You can reach me by email:mbturley@student.ubc.ca\
 
 I am a Ph.D. student in the geography department interested in how landscapes respond to changing conditions such as glacier retreat. More specifically, I am trying to understand how connected or disconnected the landscape is in terms of material transfer (i.e., water, sediment, etc.), and how this changes over time. Outside of research, I am interested in backpacking, rafting, gravel biking, baking, and cartography.
+
+
+
+
+## Communication:
+
+
+Please post general questions about course content, policies, etc. on the discussion board. Chances are that if you're confused about something, your classmates are too. Your TAs or I will respond within 24-48 hours. 
+
+For questions pertaining to your own personal situation:
+
+If they relate to the lab assignments, email your TA directly.
+For other questions, email June at skeeter1@mail.ubc.ca
