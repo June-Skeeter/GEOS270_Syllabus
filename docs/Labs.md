@@ -5,6 +5,20 @@ parent: Syllabus
 nav_order: 4
 ---
 
+
+# Lab Access
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+---
+
 ## Lab Access
 
 A major part of your learning in this course apply GIScience to real-world data through your lab assignments. This page contains details about how to access the Labs how your labs will run. Please review it in detail!
@@ -27,7 +41,7 @@ Though you may work together with your classmates on the assignments and help ea
 
 For help when you get stuck, here are some additional resources: [ESRI Technical Support](https://support.esri.com/en), [Stack Exchange](https://gis.stackexchange.com/), and [Google](https://www.google.com/).
 
-Software and computer access:
+## Software and computer access
 
 You will be using ESRI's ArcGIS Pro software to complete your lab assignments. You have multiple options for accessing the software: you may use the computer labs in the Geography Department ($20 lab fee), or you may purchase a student version of the software to install on your own computer ($30).  ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine. 
 
@@ -44,6 +58,8 @@ You will receive an account to access the Geography computer labs through Canvas
 If you need to remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).
 
 Information about the Geography Computer Labs can be found [here](https://geog.ubc.ca/undergraduate/study-resources/).  In particular, please refer the lab schedule and refrain from remotely logging into the lab computers while other courses are holding lab sessions.
+
+## Saving Your Work
 
 How to save and store your work on the Geography lab computers:
 During your lab, you should save your work to C: \ temp. This is a folder stored locally on the computer you are working on. Since it's the same machine you're working on, ArcGIS Pro can easily and quickly access and save files in this folder. However, these computers are used by multiple users, and each time a new user logs on, the C:/temp folder is at risk for being overwritten. Therefore, it is EXTREMELY IMPORTANT that you save your work elsewhere before you log off. When you sign up for your Geography lab account, you will be given space on the Geography server, known as your H:/ drive folder; we recommend you save your work here. To do so, follow these steps:

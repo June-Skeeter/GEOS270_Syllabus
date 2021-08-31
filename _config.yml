@@ -47,6 +47,10 @@ github_repo_url: "https://github.com/June-Skeeter/GEOS270W1"
 # Enable or disable heading anchors
 heading_anchors: true
 
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/June-Skeeter/GEOS270W1"
+
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
 license_url: "http://creativecommons.org/licenses/by/4.0/"

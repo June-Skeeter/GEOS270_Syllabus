@@ -7,17 +7,17 @@ nav_order: 5
 
 ## Course Evaluation
 
-Modules 1-7 will be weighted equally, module 8 will be weighted more heavily because it contains the final project.  The lowest score of Modules 1-7 will be dropped.  Assignments submitted by their due date will be marked and given feedback within 1 week.  There will be *no late penalties* for any assignments.  **However** assignments submitted after the due date are not entitled to prompt grading or feedback.  Depending on how late the submission is it may not be marked until the end of the semester and you may receive no feedback.  **No Submissions Will Be Accepted After the FInal Exam Date Without Prior Authorization**
+Modules 1-7 will be weighted equally, module 8 will be weighted more heavily because it contains the final project.  The lowest score of Modules 1-7 will be dropped.  Assignments submitted by their due date will be marked and given feedback within 1 week.  There will be *no late penalties* for any assignments.  **However** assignments submitted after the due date are not entitled to prompt grading or feedback.  Depending on how late the submission is it may not be marked until the end of the semester and you may receive no feedback.  **No Submissions Will Be Accepted After the Final Exam Date Without Prior Authorization**
 
 | Points Distribution | Percent of Points |
 |---------------------|-------------------|
 | Modules 1-7         | 60%               |
 | Module 8            | 25%               |
-| Final Exam          | 10%               |
+| Final Exam          | 15%               |
 
 ## Final Grade Distribution
 
-As per Geography Department policy, at the end of term, final grades will be scaled to fit a [Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution) with an average 72% with a standard deviation of 12%.  As such, your mark listed on canvas *will not* be reflective of you actual final grade in the class.  The approximate distribution of final grades in the course will be:
+*Tentatively* as per Geography Department policy, final grades will be scaled to fit a [Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution) with an average 72% with a standard deviation of 12%.  As such, your mark listed on canvas *will not* be reflective of you actual final grade in the class.  Your final grade will be determined relative to your classmates.  The approximate distribution of grades in the course will be:
 
 |Letter Grade|Percent Range|Percent of Total|
 |------------|-------------|----------------|
