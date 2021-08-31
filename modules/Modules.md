@@ -8,5 +8,4 @@ nav_order: 2
 
 # Modules
 
-Each module ...
 

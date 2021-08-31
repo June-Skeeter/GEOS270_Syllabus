@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Land Acknowledemtn
+title: Land Acknowledgement
 parent: Syllabus
 nav_order: 1
 ---

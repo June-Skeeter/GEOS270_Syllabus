@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Module 1
-parent: Modules
-has_children: True
+title: Lecture Module 1
+parent: Modules 1
+grand_parent: Modules
 nav_order: 1
 ---
 

@@ -37,7 +37,7 @@
 # Enable or disable the site search
 # Supports true (default) or false
 
-title: Syllabus GEOS270 2021W1
+title: GEOS270 2021W1
 # remote_theme: June-Skeeter/rc-workshop-template
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
@@ -48,7 +48,7 @@ github_repo_url: "https://github.com/June-Skeeter/GEOS270W1"
 heading_anchors: true
 
 aux_links:
-  "Just the Docs on GitHub":
+  "View on github":
     - "//github.com/June-Skeeter/GEOS270W1"
 
 # license information for workshop content
