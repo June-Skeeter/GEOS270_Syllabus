@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lecture
-parent: Modules 1
+parent: Module 1
 grand_parent: Modules
 nav_order: 1
 ---
