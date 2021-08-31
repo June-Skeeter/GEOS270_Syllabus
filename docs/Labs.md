@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Lab Access
-nav_order: 4
+parent: Syllabus
+nav_order: 3
 ---
 
 ## Lab Access

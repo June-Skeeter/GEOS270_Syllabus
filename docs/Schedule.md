@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Schedule
-nav_order: 3
+parent: Syllabus
+nav_order: 2
 ---
 
 # Course Schedule

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Evaluation
+parent: Syllabus
 nav_order: 5
 ---
 
