@@ -15,11 +15,11 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 ## Learning Outcomes
 
-* Understand how Geographic Information Systems function, and how they can be applied to solve problems.
-* Learn how real world features are represented as geospatial data in a Geographic Information System.
-* Implement geospatial analysis methods to generate information from raw datasets.
+* Understand how GIS functions and how it can be applied to solve problems.
+* Learn how phenomena are represented as geospatial data in a GIS.
+* Implement geospatial analysis methods.
 * Visualize geospatial data by understanding and apply principles of good map design. 
 * Identify sources of error in GIS analysis and output.
-* Consider the ethical implications of geospatial analysis.
-* Work collaboratively to synthesize and apply your learning to an independent project addressing a of your choosing.
+* Consider the ethical implications of GIS analysis.
+* Work collaboratively to complete a GIS project.
 

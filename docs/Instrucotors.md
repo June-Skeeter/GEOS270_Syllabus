@@ -59,7 +59,7 @@ I'm a PhD student here in Geography. My research is in plant ecology and biogeog
   position: relative">
   <iframe src="Mike.jpg" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
-   height: 80%;
+   height: 65%;
    left: 0;
    position: absolute;
    top: 0;
