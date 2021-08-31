@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Overview
+title: Syllabus
+has_children: True
 nav_order: 1
+
 ---
 
 # Geographic Information Science

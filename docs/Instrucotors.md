@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Introductions
-nav_order: 2
+parent: Syllabus
+nav_order: 1
 ---
 
 # Introductions
