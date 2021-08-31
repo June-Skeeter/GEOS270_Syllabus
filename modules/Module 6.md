@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Module 6
-nav_order: 8
+parent: Modules
+nav_order: 6
 ---
 
 

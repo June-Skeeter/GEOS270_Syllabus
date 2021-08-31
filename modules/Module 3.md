@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Module 3
-nav_order: 5
+parent: Modules
+nav_order: 3
 ---
 
 

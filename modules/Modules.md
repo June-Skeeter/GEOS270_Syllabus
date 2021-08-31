@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Module 1
-parent: Modules
-nav_order: 1
+title: Modules
+has_children: True
+nav_order: 2
 ---
 
 
