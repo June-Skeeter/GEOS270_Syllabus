@@ -7,6 +7,8 @@ nav_order: 2
 ---
 
 # Deliverables
+
+# Learing Outcomes
 <!-- 
 Complete the [lecture quiz]()
 
