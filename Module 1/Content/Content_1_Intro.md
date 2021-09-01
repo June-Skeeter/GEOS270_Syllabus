@@ -9,7 +9,8 @@ nav_order: 1
 
 # History of Geographic Information Science Intorduction to ArcGIS Pro
 
-## What is GIS anyway?
+
+## What is GIS and where did it come from?
 
 <a href="Introduction.html" target="_blank">View slides in new tab</a>
 
