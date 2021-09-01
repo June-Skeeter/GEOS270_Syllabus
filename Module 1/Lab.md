@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 # Lab Assignment 1
-{: .no_toc }
+<!-- {: .no_toc }
 
 <details open markdown="block">
   <summary>
@@ -18,7 +18,7 @@ nav_order: 2
 1. TOC
 {:toc}
 </details>
----
+--- -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UDE_v8S9-Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -40,19 +40,4 @@ nav_order: 2
 
 
 
-
-
-## Part 1
-
-Getting Set Up
-
--- depends on your circumstances
-
-## Part 2
-
-Intro to ArcPro
-
-## Part 3
-
-John Snows Map
 
