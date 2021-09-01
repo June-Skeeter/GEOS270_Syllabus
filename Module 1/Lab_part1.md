@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Lab Assignment
-parent: Module 1
-grand_parent: Modules
-nav_order: 2
+title: Part 1
+parent: Lab Assignment
+grand_parent: Module 1
+# has_children: True
+nav_order: 1
 ---
 
-# Lab Assignment 1
+# Introduction to Arc IS Pro
 {: .no_toc }
 
 <details open markdown="block">
