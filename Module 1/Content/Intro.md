@@ -2,12 +2,13 @@
 layout: default
 title: Content
 parent: Module 1
+has_children: true
 # grand_parent: Modules
 nav_order: 1
 ---
 
 
-# History of Geographic Information Science Intorduction to ArcGIS Pro
+# History of GIS
 
 
 ## What is GIS and where did it come from?

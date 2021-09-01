@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Content
-parent: Module 1
-# grand_parent: Modules
+title: History of Mapping
+parent: Content
+grand_parent: Module 1
 nav_order: 1
 ---
 
