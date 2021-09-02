@@ -6,12 +6,9 @@ nav_order: 1
 
 ---
 
-# Syllabus: **GEOS 270**
-
-## Course Overview:
+# **GEOS 270**:Syllabus
 
 This course will expose you to key concepts and tools used to collect, map, and interpret geographic data.  We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using geospatial data to solve problems in both the natural and human realms.
-
 
 ## Learning Outcomes
 
