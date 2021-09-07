@@ -1,14 +1,28 @@
 ---
 layout: default
 title: Land Acknowledgement
-parent: Syllabus
-nav_order: 1
+# parent: Syllabus
+nav_order: 2
 ---
 
 # Land Acknowledgement
 
-UBC and the city of Vancouver is on the traditional, ancestral, and unceded territory of multiple Coast Salish Peoples including the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Skwxwú7mesh-ulh Temíx̱w (Squamish) Nations, and S’ólh Téméxw (Stó:lō) people.  The xʷməθkʷəy̓əm, səl̓ilwətaɁɬ təməxʷ, and Skwxwú7mesh-ulh Temíx̱w people occupied these lands for thousands of years before settlers arrived.  Genocide has been perpetuated a against Indigenous people in settler societies across the globe, and in some ways this genocide is still ongoing in British Columbia.  For decades there has been concerted effort by the government to erase Indigenous cultures from the land and erase them from the map.  
+UBC sits and greater Vancouver are on are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically, the [xʷməθkʷəy̓əm (Musqueam)](https://native-land.ca/maps/territories/x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m/), [əl̓ilwətaɁɬ (Tsleil-Waututh)](https://native-land.ca/maps/territories/tsleil-waututh-s%c9%99l%cc%93ilw%c9%99ta%c9%82%c9%ac/), [Skwxwú7mesh-ulh (Squamish)](https://native-land.ca/maps/territories/skwxwu7mesh-uxwumixw/), and [S’ólh (Stó:lō)](https://native-land.ca/maps/territories/stolo-treaty-association/) Nations.  The xʷməθkʷəy̓əm, əl̓ilwətaɁɬ, and S’ólh speak dialects of [Hul’q’umi’num’ / Halq’eméylem / hən̓q̓əmin̓əm̓](https://native-land.ca/maps/languages/hulquminum-halqemeylem-h%c9%99n%cc%93q%cc%93%c9%99min%cc%93%c9%99m%cc%93/) and the Skwxwú7mesh-ulh speak [Sḵwx̱wú7mesh sníchim](https://native-land.ca/maps/languages/s%e1%b8%b5wx%cc%b1wu7mesh-snichim/).
 
-<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&position=49.268264,-123.157480" style="width:80%; height:400px; border:none;"></iframe>
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&name=puget-sound-salish" style="width:80%; height:400px; border:none;"></iframe>
 
-This data is from [native-land.ca](https://native-land.ca/).  It is by no means a definitive source, but it's a good place to start building an understanding of the Indigenous territories, languages, and treaties in your area.
+## Why Do a Land Acknowledgement
+
+For centuries, a genocide has been perpetuated a against Indigenous people by settler societies across the globe.  In some ways this genocide is still ongoing here in British Columbia and across Canada.  There has been concerted effort by the government, religious organizations, and educational institutions to erase Indigenous cultures and identity both the land.  Historically, maps have been used as tools of oppression and we must work to de-colonize our practices in GIS.  A land acknowledgement is one small way to help with that.  It isn't just a formality.  It is a time to reflect and build understanding.  The maps and information presented above are sourced from [native-land.ca](https://native-land.ca/).  
+
+## What Does it Mean?
+
+Why do we say *traditional, ancestral, and unceded territory*?
+
+**Traditional**: recognizes that the lands were traditionally used and/or occupied.  The colonial narrative suggests North America was a sparsely populated wilderness prior to colonization.
+
+**Ancestral**: recognizes land that is handed down from generation to generation.  It is meant to convey a deep rooted connection to the land.
+
+**Unceded**: refers to land that was not turned over to the Crown (government) by a treaty or other agreement.  The  vast majority of the land in BC was never ceded by treaty.
+
+<iframe src="https://native-land.ca/api/embed/embed.html?maps=treaties" style="width:80%; height:400px; border:none;"></iframe>
