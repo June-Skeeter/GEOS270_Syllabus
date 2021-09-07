@@ -11,6 +11,8 @@ nav_order: 3
 1. TOC
 {:toc}
 
+---
+
 # Evaluation
 
 The course is made up of eight modules that will be posted on the dates listed and a comprehensive final exam.  The first seven Module Assesments will each be worth 10% of your final grade and the lowest scoring module will be dropped.  Module eight will be weighted more heavily because it will be foucesed on the final project.
@@ -25,40 +27,60 @@ The course is made up of eight modules that will be posted on the dates listed a
 
 # Course Schedule
 
-|Module  |Post Date| Lecturer Dates |Due Date|                             Topics                              |
-|--------|---------|----------------|--------|-----------------------------------------------------------------|
-|Module 1|Sept 13  |Sept 15         |Sept 19 |History of Mapping, Spatial Analysis, & GIS                      |
-|Module 2|Sept 20  |Sept 22         |Sept 26 |Coordinate Reference Systems                                     |
-|Module 3|Sept 27  |Sept 29<br>Oct 6|Oct 10  |Spatial Data Models & Spatial Data Collection                    |
-|Module 4|Oct 11   |Oct 13<br>Oct 20|Oct 24  |Spatial Analysis, Spatial Inference, & GIS Workflows             |
-|Module 5|Oct 25   |Oct 27          |Oct 31  |Data Normalization, Classification, Visualization, & Web Mapping |
-|Module 6|Nov 1    |Nov 3           |Nov 7   |Error, Spatial Bias, and Logical Fallacies                       |
-|Module 7|Nov 8    |Nov 17          |Nov 21  |Final Project Introduction, GIS Applications, and GIS in Research|
-|Module 8|Nov 22   |Nov 24<br>Dec 1 |Dec 7   |Ethics in GIS, Project Help and Exam Review                      |
-|Exam    |Dec 13   |                |Dec 15  |Asynchronous "take-home" exam                                    |
-  
+|Post Date| Module |                             Topics                              |Due Date|
+|---------|--------|-----------------------------------------------------------------|--------|
+|Sept 13  |Module 1|History of Mapping, Spatial Analysis, & GIS                      |Sept 20 |
+|Sept 20  |Module 2|Coordinate Reference Systems                                     |Sept 27 |
+|Sept 27  |Module 3|Spatial Data Models & Spatial Data Collection                    |Oct 11  |
+|Oct 11   |Module 4|Spatial Analysis, Spatial Inference, & GIS Workflows             |Oct 25  |
+|Oct 25   |Module 5|Data Normalization, Classification, Visualization, & Web Mapping |Nov 1   |
+|Nov 1    |Module 6|Error, Spatial Bias, and Logical Fallacies                       |Nov 8   |
+|Nov 8    |Module 7|Final Project Introduction, GIS Applications, and GIS in Research|Nov 22  |
+|Nov 22   |Module 8|Ethics in GIS, Project Help and Exam Review                      |Dec 7   |
+|Dec 13   |Exam    |Asynchronous "take-home" exam                                    |Dec 15  |
+
+
+<iframe src="https://calendar.google.com/calendar/embed?src=8c8pmsg6k1kf44sdn9mh84p0bg%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ---
 
-# Modular Format
+# Modules
+
+Each module will be published as a webpage on github.  They will be made accessible through Canvas and will also be hyperlinked in the above schedule as they are posted.  Modules will have assessments associated with them that can be submitted via canvas.  Each module is a lesson intended to introduce and cover specific topics within GIS.
 
 ## Content
 
-Readings, videos, & lecture pertaining to the topics outlined for each module.  In person lectures for each module will be held Wednesdays at 14:00 in room 200 of the Geography Building on the dates listed.  The lectures will also be recorded and streamed on zoom for those who cannot attend in person.
+Module content will consist of readings, videos, & other materials pertaining to the topics outlined for each module.  **In person** lecture will be held **every** Wednesday (except September 8th)
+
+
+  Modules will be posted with an introductory video outlining the topic and covering the key themes of the module.  The introductory video should be reviewed before in person lecture.  In person lectures for each module will be held Wednesdays at 14:00 in room 200 of the Geography Building on the dates listed.  The lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.  Lectures will be streamed on zoom for anyone who needs or prefers to attend remotely, I will work to incorporate the zoom attendees and answer any questions that are asked in the chat.
 
 ## Application
 
-Labs will build on the module content and give you hands on practice.  Labs associated with each module will take 1 or 2 weeks to complete.  See the [Lab Access](/Labs.md) page for more details on specifics. 
+The application will build on the module content and give you hands on practice working with GIS software.  You can work through the application in your lab section.   See the [Lab Access](/Labs.md) page for more details on specifics. 
 
 ## Assessment
 
-Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assesments will cover both lecture and lab material and will be sumbitted via canvas.  The assesments will consit of two parts:
+Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via canvas.  The assessments will consist of two parts:
 
-### Automated Quizes
+### Automated Quizzes
 
 Questions will consist of multiple choice, true/false, numeric input, and other questions that can be marked automatically.  You will be allowed multiple attempts to complete these quizzes, and you will receive a grade immediately after submission.  
 
 ### Marked Assignment
 
-Marked assignemtns will be submitted via canvas quiz and be marked by your TA.  They will consist of written answers to questions as well as file sumbissions (maps/charts).
+Marked assignments will be submitted via canvas quiz and be marked by your TA.  They will consist of written answers to questions as well as file sumbissions (maps/charts).
+
+---
+
+# Final Project
+
+The final project will be assigned with Module 7.  The project is a group assignment that will be completed in groups of two to four.  You may only work on the project alone if you get approval.  GIS is a collaborative discipline and your project should be done with a group unless special circumstances necessitate otherwise.  More details will be provided later in the term.
+
+---
+
+# Final Exam
+
+The final exam will be completed asynchronously over Canvas. It will be available for completion between December 13th and 15th.  It will consist of a few essays, short answers, a diagram, and a GIS task. 
 
 ---

@@ -76,7 +76,7 @@ If you have a Mac or Linux computer, you will first have to set up a Windows par
 
 ## Option 3: UBC Library GIS (Last Resort)
 
-You can remote logon https://koerner.library.ubc.ca/blog/remote-access-to-koerner-labs/
+This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the [Koerner Library GIS Computers]((https://koerner.library.ubc.ca/blog/remote-access-to-koerner-labs/)) remotely.
 
 
 # Saving Your Work
@@ -99,5 +99,5 @@ When you come back next time to complete the assignment, you will transfer the f
 
 Watch this video to see the steps you need to take when working with the geography labs.
 
-[Insert Video Link]
+[Insert Video Link] - I'll add this soon
 

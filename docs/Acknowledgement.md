@@ -11,7 +11,9 @@ UBC and greater Vancouver are on the traditional, ancestral, and unceded territo
 
 <img src="images/first-nations-bc.jpg" alt="hi" class="inline" width="500"/>
 
-## Why Do a Land Acknowledgement
+<a href="https://opentextbc.ca/indigenizationfoundations/chapter/acknowledging-traditional-territories/" target="_blank">Map Source</a>
+
+## Why Do a Land Acknowledgement?
 
 For centuries, settler societies have perpetuated a genocide against Indigenous people across the globe.  In many ways this genocide is still ongoing here in British Columbia and across Canada.  There has been concerted effort by the government, religious organizations, and educational institutions to erase Indigenous cultures and identity from both the land and the map.  Historically, maps have been used as tools of oppression and we must work to de-colonize our practices in GIS.  A land acknowledgement is one small way to help with that.  It isn't just a formality.  It is a time to reflect and build understanding.  The maps and information presented below are sourced from [native-land.ca](https://native-land.ca/).  
 
