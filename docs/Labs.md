@@ -55,7 +55,7 @@ To complete your lab assignments, you will be using ESRI's ArcGIS Pro.  This is 
 
 ## Option 1: Geography Lab Computers ($20)
 
-The Geography Department has computer labs that may be accessed in-person when the geography building is open and via remote desktop connection 24/7.  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/) by ... insert deadline ... or your account will be locked.  After you pay the fee, email Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you your geography lab logon credentials.
+The Geography Department has computer labs that may be accessed in-person when the geography building is open and via remote desktop connection 24/7.  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/).  After you pay the fee, email Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you your geography lab logon credentials.
 
 If you need to remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).
 
@@ -63,8 +63,7 @@ Information about the Geography Computer Labs can be found [here](https://geog.u
 
 ## Option 2: Purchase a Student License ($30)
 
-You may purchase a student version of the software to install on your own computer for $30.   
- you may use the computer labs in the Geography Department ($20 lab fee) or ($30).  ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine.
+You may purchase a student version of the software to install on your own computer for $30. ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine.
 
 
 To install ArcPro on your own computer:
