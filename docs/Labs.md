@@ -84,7 +84,7 @@ This is not a viable solution for the whole semester as computer access is limit
 
 During your lab, you should save your work to C: \ temp. This is a folder stored locally on the computer you are working on.  Since it's the same machine you're working on, ArcGIS Pro can easily and quickly access and save files in this folder. However, lab computers are accessed by multiple users.  A single computer in room 115 might have 20-30 different students accessing it (in person or remotely) in a given week.  Each time a new user logs on, the C:/temp folder is at risk for being overwritten.  Therefore, it is **EXTREMELY IMPORTANT** that you save your work elsewhere before you log off.  When you sign up for your Geography lab account, your account will be given server space, known as your H:/ drive folder; we recommend you save your work here. To do so, follow these steps:
 
-* Save your Map document and close ArcGIS Pro or any other software you may be using (Word, Excel, e tc. ...)
+* Save your Map document and close ArcGIS Pro or any other software you may be using (Word, Excel, etc. ...)
 * Launch My Computer, and navigate to C: \ temp
 * From the top menu, Edit >Select All to select all files inside of C: \ temp
 * From the top menu, Edit > Co py to Folder and select H: \ from the window. Click Copy
@@ -100,7 +100,7 @@ When you come back next time to complete the assignment, you will transfer the f
 
 You can handle things however you like
 
-## Remote backup and collaboratoin
+## Remote backup and Collaboration
 
-I suggest folks use a cloud based service (google dirve, dropbox etc.) to back up their work.  This is good practice in general and might be worthwhile for you beyond GIS.  Using a cloud based service whill make it easier to share data/work with group members when it comes time to work on your final projects.
+I suggest folks use a cloud based service (google drive, dropbox etc.) to back up their work.  This is good practice in general and might be worthwhile for you beyond GIS.  Using a cloud based service will make it easier to share data/work with group members when it comes time to work on your final projects.
 

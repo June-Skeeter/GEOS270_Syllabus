@@ -9,6 +9,8 @@ nav_order: 1
 # **GEOS 270**
 ## Syllabus
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D_BtsmFwyYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This Syllabus is a living document and will be updated as the semester progresses.  You can find links to all the course material along with important dates and deadlines in the course [Schedule](docs/Overview.md#course-schedule).
 
 ## Learning Outcomes
