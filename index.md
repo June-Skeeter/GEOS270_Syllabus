@@ -29,7 +29,7 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 My name is June Skeeter, I am a white settler and immigrant from the United States who has been living as an univited guest unceded Coast Salish Territory for six years.  I am non-binary and my pronouns are they/them/theirs.  I am a geographer, researcher, and educator with a passion for social and ecological justice.  My principal aim this semester is to providing a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
 
-I've been teaching GIS for six years, first as a TA and now as an instructor.  My aim in teaching this course is to show people how to use GIS as a tool to help make the world a better place.  When I'm not working, I like to spend my free time hiking, snowboarding, baking, and gardening.  I use GIS extensively is my research studying climate change in the Arctic.  More recently, I've started using GIS to [track police violence in Canada](https://policeinvolveddeathsincanada.github.io/DataSets/).  
+I've been teaching GIS for six years, first as a TA and now as an instructor.  My aim in teaching this course is to show people how to use GIS as a tool to help make the world a better place.  I use GIS extensively is my research studying [climate change in the Arctic](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://policeinvolveddeathsincanada.github.io/DataSets/).  When I'm not working, I like to spend my free time hiking, snowboarding, baking, and gardening.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
