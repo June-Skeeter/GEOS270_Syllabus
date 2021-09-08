@@ -49,11 +49,14 @@ Each module will be published as a webpage on github.  They will be made accessi
 
 ## Content
 
-Module content will consist of readings, videos, & other materials pertaining to the topics outlined for each module.  **In person** lecture will be held **every** Wednesday (except September 8th) at 14:00 in room 200 of the Geography Building.  The module content should be reviewed before in person lecture.  The schedule class time on Mondays at 14:00 will be a good time for this!  In person lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.  In person lectures will be streamed and recorded for students who can not attend in person.  More details regarding streaming and recording will be avaliable soon!
+Module content will consist of readings, videos, & other materials pertaining to the topics outlined for each module.  **In person** lecture will be held **every** Wednesday (except September 8th) at 14:00 in room 200 of the Geography Building.
+* The module content should be reviewed before in person lecture.  The schedule class time on Mondays at 14:00 will be a good time for this!
+* In person lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.
+  * In person lectures will be streamed and recorded for students who can not attend in person.  More details regarding streaming and recording will be avaliable soon!
 
 ## Application
 
-The application will build on the module content and give you hands on practice working with GIS software.  You can work through the application in your lab section.   See the [Lab Access](/Labs.md) page for more details on specifics. 
+The application will build on the module content and give you hands on practice working with GIS software.  You can work through the application in your lab section.  See the [Lab Access](/Labs.md) page for more details on specifics. 
 
 ## Assessment
 

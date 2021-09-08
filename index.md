@@ -31,7 +31,19 @@ My name is June Skeeter, I am a white settler and immigrant from the United Stat
 
 I've been teaching GIS for six years, first as a TA and now as an instructor.  My aim in teaching this course is to show people how to use GIS as a tool to help make the world a better place.  When I'm not working, I like to spend my free time hiking, snowboarding, baking, and gardening.  I use GIS extensively is my research studying climate change in the Arctic.  More recently, I've started using GIS to [track police violence in Canada](https://policeinvolveddeathsincanada.github.io/DataSets/).  
 
-
-<img src="docs/videos/SiteTour.jpg" alt="hi" class="inline" width="300"/>
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="docs/videos/SiteTour.jpg" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="docs/videos/SiteTour.jpg" target="_blank">View Image in New Tab</a>
 
 You can reach me by email (skeeter1@mail.ubc.ca) or come to my office hours [Monday's 2:00 on zoom](https://ubc.zoom.us/j/63773260301?pwd=SUlBeVd1bXRjZEVmY1FXSnNBVDJqdz09), Wednesdays after lecture, or Thursdays 2:00 room 144).  Zoom office hours are by appointment rather than drop-in, shoot me an email to let me know you plan to attend!  I'm also avaialbe to meet outside of these listed hours by request if needed.
