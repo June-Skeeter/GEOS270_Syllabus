@@ -34,7 +34,7 @@ I've been teaching GIS for six years, first as a TA and now as an instructor.  M
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="docs/videos/SiteTour.jpg" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="docs/videos/SiteTour.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -44,6 +44,6 @@ I've been teaching GIS for six years, first as a TA and now as an instructor.  M
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="docs/videos/SiteTour.jpg" target="_blank">View Image in New Tab</a>
+<a href="docs/videos/SiteTour.mp4" target="_blank">View Image in New Tab</a>
 
 You can reach me by email (skeeter1@mail.ubc.ca) or come to my office hours [Monday's 2:00 on zoom](https://ubc.zoom.us/j/63773260301?pwd=SUlBeVd1bXRjZEVmY1FXSnNBVDJqdz09), Wednesdays after lecture, or Thursdays 2:00 room 144).  Zoom office hours are by appointment rather than drop-in, shoot me an email to let me know you plan to attend!  I'm also avaialbe to meet outside of these listed hours by request if needed.
