@@ -29,7 +29,7 @@ The course is made up of eight modules that will be posted on the dates listed a
 
 |Post Date| Module |                             Topics                              |Due Date|
 |---------|--------|-----------------------------------------------------------------|--------|
-|Sept 13  |Module 1|History of Mapping, Spatial Analysis, & GIS                      |Sept 20 |
+|Sept 13  |Module 1|History ot GIS and Intro to ArcGIS Pro                           |Sept 20 |
 |Sept 20  |Module 2|Coordinate Reference Systems                                     |Sept 27 |
 |Sept 27  |Module 3|Spatial Data Models & Spatial Data Collection                    |Oct 11  |
 |Oct 11   |Module 4|Spatial Analysis, Spatial Inference, & GIS Workflows             |Oct 25  |
@@ -38,7 +38,6 @@ The course is made up of eight modules that will be posted on the dates listed a
 |Nov 8    |Module 7|Final Project Introduction, GIS Applications, and GIS in Research|Nov 22  |
 |Nov 22   |Module 8|Ethics in GIS, Project Help and Exam Review                      |Dec 7   |
 |Dec 13   |Exam    |Asynchronous "take-home" exam                                    |Dec 15  |
-
 
 <iframe src="https://calendar.google.com/calendar/embed?src=8c8pmsg6k1kf44sdn9mh84p0bg%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -50,10 +49,7 @@ Each module will be published as a webpage on github.  They will be made accessi
 
 ## Content
 
-Module content will consist of readings, videos, & other materials pertaining to the topics outlined for each module.  **In person** lecture will be held **every** Wednesday (except September 8th)
-
-
-  Modules will be posted with an introductory video outlining the topic and covering the key themes of the module.  The introductory video should be reviewed before in person lecture.  In person lectures for each module will be held Wednesdays at 14:00 in room 200 of the Geography Building on the dates listed.  The lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.  Lectures will be streamed on zoom for anyone who needs or prefers to attend remotely, I will work to incorporate the zoom attendees and answer any questions that are asked in the chat.
+Module content will consist of readings, videos, & other materials pertaining to the topics outlined for each module.  **In person** lecture will be held **every** Wednesday (except September 8th) at 14:00 in room 200 of the Geography Building.  The module content should be reviewed before in person lecture.  The schedule class time on Mondays at 14:00 will be a good time for this!  In person lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.  In person lectures will be streamed and recorded for students who can not attend in person.  More details regarding streaming and recording will be avaliable soon!
 
 ## Application
 
@@ -81,6 +77,6 @@ The final project will be assigned with Module 7.  The project is a group assign
 
 # Final Exam
 
-The final exam will be completed asynchronously over Canvas. It will be available for completion between December 13th and 15th.  It will consist of a few essays, short answers, a diagram, and a GIS task. 
+The final exam will be completed asynchronously over Canvas. It will be available for completion between December 13th and 15th.  It will consist of a few essays, short answers, a diagram, and a GIS task.  More details will be provided later in the term.
 
 ---

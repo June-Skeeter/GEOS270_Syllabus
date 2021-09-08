@@ -97,7 +97,11 @@ When you come back next time to complete the assignment, you will transfer the f
 * Navigate to your H drive, select your current lab's folder , and copy it to C: \ temp
 * Resume your work
 
-Watch this video to see the steps you need to take when working with the geography labs.
+## Your own Computer
 
-[Insert Video Link] - I'll add this soon
+You can handle things however you like
+
+## Remote backup and collaboratoin
+
+I suggest folks use a cloud based service (google dirve, dropbox etc.) to back up their work.  This is good practice in general and might be worthwhile for you beyond GIS.  Using a cloud based service whill make it easier to share data/work with group members when it comes time to work on your final projects.
 
