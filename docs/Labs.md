@@ -55,11 +55,11 @@ To complete your lab assignments, you will be using ESRI's ArcGIS Pro.  This is 
 
 ## Option 1: Geography Lab Computers ($20)
 
-The Geography Department has computer labs that may be accessed in-person when the geography building is open and via remote desktop connection 24/7.  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/).  After you pay the fee, email Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you your geography lab logon credentials.
+The Geography Department has computer labs (rooms 115 and 237) that may be accessed in-person when the geography building is open (7:30 am to 5:00 pm Mon-Fri *Students with evening classes/labs are given key card access until 8:30 for those particular days*).  The geography computers may also be accessed via remote desktop connection 24 hours a day, 7 days a week.  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/).  After you pay the fee, email Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you your geography lab logon credentials.
 
 If you need to remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).
 
-Information about the Geography Computer Labs can be found [here](https://geog.ubc.ca/undergraduate/study-resources/).  In particular, please refer the lab schedule and refrain from remotely logging into the lab computers while other courses are holding lab sessions.
+Information about the Geography Computer Labs can be found [here](https://geog.ubc.ca/undergraduate/study-resources/).  In particular, please refer the lab schedule and *refrain from remotely logging onto a lab computers while other courses are holding lab session in that room*.
 
 ## Option 2: Purchase a Student License ($30)
 

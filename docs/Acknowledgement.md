@@ -21,7 +21,7 @@ For centuries, settler societies have perpetuated a genocide against Indigenous 
 
 Why do we say *traditional, ancestral, and unceded territory*?
 
-**Traditional**: recognizes that the lands were traditionally used and/or occupied.  The [xʷməθkʷəy̓əm](https://native-land.ca/maps/territories/x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m/), [əl̓ilwətaɁɬ](https://native-land.ca/maps/territories/tsleil-waututh-s%c9%99l%cc%93ilw%c9%99ta%c9%82%c9%ac/), [Skwxwú7mesh-ulh](https://native-land.ca/maps/territories/skwxwu7mesh-uxwumixw/), and [S’ólh](https://native-land.ca/maps/territories/stolo-treaty-association/) Nations have traditionally occupied this area.
+**Traditional**: recognizes that the lands were traditionally used and/or occupied.  The [xʷməθkʷəy̓əm](https://native-land.ca/maps/territories/x%ca%b7m%c9%99%ce%b8k%ca%b7%c9%99y%cc%93%c9%99m/), and [əl̓ilwətaɁɬ](https://native-land.ca/maps/territories/tsleil-waututh-s%c9%99l%cc%93ilw%c9%99ta%c9%82%c9%ac/), [Skwxwú7mesh-ulh](https://native-land.ca/maps/territories/skwxwu7mesh-uxwumixw/)Nations have traditionally occupied this area.
 
 <iframe src="https://native-land.ca/api/embed/embed.html?maps=territories&name=skwxw7mesh-xwumixw,tsleil-waututh-səl̓ilwətaɂɬ,xʷməθkʷəy̓əm" style="width:80%; height:400px; border:none;"></iframe>
 
