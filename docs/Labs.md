@@ -55,7 +55,7 @@ To complete your lab assignments, you will be using ESRI's ArcGIS Pro.  This is 
 
 ## Option 1: Geography Lab Computers ($20)
 
-The Geography Department has two computer labs (rooms 115 and 237) that may be accessed in-person when the geography building is open (7:30 am to 5:00 pm Mon-Fri *Students with evening classes/labs are given key card access until 8:30 for those particular days*).  The geography lab computers may also be accessed remotely (via remote desktop connection) 24 hours a day, 7 days a week.  If you wish to remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/).  After you pay the fee, email Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you your geography lab logon credentials.
+The Geography Department has two computer labs (rooms 115 and 237) that may be accessed in-person when the geography building is open (7:30 am to 5:00 pm Mon-Fri *Students with evening classes/labs are given key card access until 8:30 for those particular days*).  The geography lab computers may also be accessed remotely (via remote desktop connection) 24 hours a day, 7 days a week.  If you wish to remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/).  After you pay the fee, email Jose Aparicio will send you your logon credentials.  *Jose is very busy at the end of term, it may take him a bit to get you the logon.*
 
 Information about the Geography Computer Labs can be found [here](https://geog.ubc.ca/undergraduate/study-resources/).  In particular, please refer the lab schedule and *refrain from remotely logging onto a lab computers while other courses are holding lab session in that room*.
 
@@ -64,11 +64,11 @@ Information about the Geography Computer Labs can be found [here](https://geog.u
 You may purchase a student version of the software to install on your own computer for $30. ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine.
 
 
-To install ArcPro on your own computer:
+**To install ArcPro on your own computer:**
 
 If you have a Mac or Linux computer, you will first have to set up a Windows partition. You can [follow these instructions](https://support.apple.com/en-ca/HT201468) **Unfortunately we cannot provide any support for this step of the installation.**
 * Check that your computer meets the system requirements for ArcPro using [this link](http://www.systemrequirementslab.com/Client/Standard/?apikey=50F41142-39B0-4061-97C2-BA7B7FE43D0E&refid=1186&item=12433).
-* [Head to](http://gis.ubc.ca/software/) to purchase, ArcGIS.  Important Note: ArcGIS Pro is not yet available for download directly from this site, only ArcMap.  Once you make the purchase, email your receipt to Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you a link to download ArcPro.
+* [Head to](http://gis.ubc.ca/software/) to purchase, ArcGIS.  Important Note: ArcGIS Pro is not yet available for download directly from this site, only ArcMap.  Once you make the purchase, email your receipt to Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you a link to download ArcPro.  *Jose is very busy at the end of term, it may take him a bit to get you the logon.*
 
 
 ## Option 3: UBC Library GIS (Last Resort)
