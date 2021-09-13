@@ -27,17 +27,18 @@ The course is made up of eight modules that will be posted on the dates listed a
 
 # Course Schedule
 
-|Post Date|                           Module                           |                             Topics                              |Due Date|
-|---------|------------------------------------------------------------|-----------------------------------------------------------------|--------|
-|Sept 13  |[Module 1](https://github.com/June-Skeeter/Module1_GEOS270/)|History ot GIS and Intro to ArcGIS Pro                           |Sept 20 |
-|Sept 20  |Module 2                                                    |Coordinate Reference Systems                                     |Sept 27 |
-|Sept 27  |Module 3                                                    |Spatial Data Models & Spatial Data Collection                    |Oct 11  |
-|Oct 11   |Module 4                                                    |Spatial Analysis, Spatial Inference, & GIS Workflows             |Oct 25  |
-|Oct 25   |Module 5                                                    |Data Normalization, Classification, Visualization, & Web Mapping |Nov 1   |
-|Nov 1    |Module 6                                                    |Error, Spatial Bias, and Logical Fallacies                       |Nov 8   |
-|Nov 8    |Module 7                                                    |Final Project Introduction, GIS Applications, and GIS in Research|Nov 22  |
-|Nov 22   |Module 8                                                    |Ethics in GIS, Project Help and Exam Review                      |Dec 7   |
-|Dec 13   |Exam                                                        |Asynchronous "take-home" exam                                    |Dec 15  |
+|Post Date|                          Module                           |                             Topics                              |Due Date|
+|---------|-----------------------------------------------------------|-----------------------------------------------------------------|--------|
+|Sept 13  |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History ot GIS and Intro to ArcGIS Pro                           |Sept 20 |
+|Sept 20  |Module 2                                                   |Coordinate Reference Systems                                     |Sept 27 |
+|Sept 27  |Module 3                                                   |Spatial Data Models & Spatial Data Collection                    |Oct 11  |
+|Oct 11   |Module 4                                                   |Spatial Analysis, Spatial Inference, & GIS Workflows             |Oct 25  |
+|Oct 25   |Module 5                                                   |Data Normalization, Classification, Visualization, & Web Mapping |Nov 1   |
+|Nov 1    |Module 6                                                   |Error, Spatial Bias, and Logical Fallacies                       |Nov 8   |
+|Nov 8    |Module 7                                                   |Final Project Introduction, GIS Applications, and GIS in Research|Nov 22  |
+|Nov 22   |Module 8                                                   |Ethics in GIS, Project Help and Exam Review                      |Dec 7   |
+|Dec 13   |Exam                                                       |Asynchronous "take-home" exam                                    |Dec 15  |
+
 
 <iframe src="https://calendar.google.com/calendar/embed?src=8c8pmsg6k1kf44sdn9mh84p0bg%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
