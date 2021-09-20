@@ -82,7 +82,7 @@ This is not a viable solution for the whole semester as computer access is limit
 
 **When you first logon to geography lab computers with your account** find C:\Apps\RunOnce.bat in the file manager.  Double click on it to run it.  This will initalize your account and set up access to your **H:/** drive.
 
-<img src="images/RunOnce_File_Location.png" alt="RunOnce" class="inline" width="300"/>
+<img src="images/RunOnce_File_Location.png" alt="RunOnce" class="inline" width="500"/>
 
 During your lab, you should save your work to C: \ temp. This is a folder stored locally on the computer you are working on.  Since it's the same machine you're working on, ArcGIS Pro can easily and quickly access and save files in this folder. However, lab computers are accessed by multiple users.  A single computer in room 115 might have 20-30 different students accessing it (in person or remotely) in a given week.  Each time a new user logs on, the C:/temp folder is at risk for being overwritten.  Therefore, it is **EXTREMELY IMPORTANT** that you save your work elsewhere before you log off.  When you sign up for your Geography lab account, your account will be given server space, known as your H:/ drive folder; we recommend you save your work here. To do so, follow these steps:
 
