@@ -22,11 +22,16 @@ My aim for this semester is to provide a flexible and supportive learning enviro
 
 # Marking & Feedback
 
-Written answers and file submisions will be marked by your TA using a rubric.  Assignments submitted by the due date will be graded and returned seven days after the due date (*tentative, pending discussion with TAs*).  Short comments will be provided where applicable.  If you want further feedback on you lab assignment ask your TA in lab or by email.
+Written answers and file submissions will be marked by your TA using a rubric.  Assignments submitted by the due date will be graded and returned seven days after the due date.  Short comments will be provided where applicable.  If you want further feedback on you lab assignment ask your TA in lab or by email.
 
 ## Late Penalties
 
-Assessment submissions will be accepted without late penalty for seven days.  Once Assesment grades are posted, submissions will no longer be accepted.  **Late assigments waive their right to prompt grading**.  Assignemnts submitted after the due date will be marked whenever is convenient for the TA.
+Assessment submissions will be accepted without late penalty for seven days.  Once assessment grades are posted, submissions will no longer be accepted.  **Late assignments waive their right to prompt grading**.  Assignments submitted after the due date will be marked whenever is convenient for the TA.
+
+
+## Automated Quizzes
+
+Canvas quizzes have very limited functionality in regards to regrading fill in the blank and numeric input questions.  To account for possible spelling issues, unanticipated answers that are correct, or errors in the Quizzes, I will be downloading all responses and use a python script to identify alternative possible answers.  I'll post the updated scores to Canvas and an answer key to each Module once the submission window has closed (7 days after the due date).  No ones mark will go down from this, but if you entered a correct answer that wasn't in the Canvas answer bank or made a minor typo, your score will go up.  These scores will be reflected in the grade book, but the changes won't be reflected on the individual quiz questions.  
 
 ---
 
@@ -40,7 +45,7 @@ If you require an [Academic Concession](https://www.arts.ubc.ca/degree-planning/
 
 # Communication
 
-There is a course discussion board on canvas.  Please post general questions about course content, policies, etc. on the discussion board. Chances are that if you're confused about something, your classmates are too. Your TAs or I will respond within 48 hours.  For questions pertaining to your own personal situation email June (skeeter1@mail.ubc.ca) or your TA.
+There is a course discussion board on Canvas.  Please post general questions about course content, policies, etc. on the discussion board. Chances are that if you're confused about something, your classmates are too. Your TAs or I will respond within 48 hours.  For questions pertaining to your own personal situation email June (skeeter1@mail.ubc.ca) or your TA.
 
 ---
 
