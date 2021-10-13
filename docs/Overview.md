@@ -15,30 +15,29 @@ nav_order: 3
 
 # Evaluation
 
-The course is made up of eight modules that will be posted on the dates listed and a comprehensive final exam.  The first seven Module Assesments will each be worth 10% of your final grade and the lowest scoring module will be dropped.  Module eight will be weighted more heavily because it will be foucesed on the final project.
+The course is made up of seven modules, a final project, and a comprehensive final exam.  The seven Module Assesments will each be worth 10% of your final grade and the lowest scoring module will be dropped.  The final project and exam will both be worth 20% of your final grade.
 
 | Points Distribution | Percent of Points |
 |---------------------|-------------------|
 | Modules 1-7         | 60%               |
-| Module 8            | 25%               |
-| Final Exam          | 15%               |
+| Final Project       | 20%               |
+| Final Exam          | 20%               |
 
 ---
 
 # Course Schedule
 
-|Post Date|                          Module                           |                             Topics                              |Due Date|
-|---------|-----------------------------------------------------------|-----------------------------------------------------------------|--------|
-|Sept 13  |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History ot GIS and Intro to ArcGIS Pro                           |Sept 20 |
-|Sept 20  |[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Coordinate Reference Systems                                     |Sept 27 |
-|Sept 27  |[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Spatial Data Models & Spatial Data Collection                    |Oct 11  |
-|Oct 11   |Module 4                                                   |Spatial Analysis, Spatial Inference, & GIS Workflows             |Oct 25  |
-|Oct 25   |Module 5                                                   |Data Normalization, Classification, Visualization, & Web Mapping |Nov 1   |
-|Nov 1    |Module 6                                                   |Error, Spatial Bias, and Logical Fallacies                       |Nov 8   |
-|Nov 8    |Module 7                                                   |Final Project Introduction, GIS Applications, and GIS in Research|Nov 22  |
-|Nov 22   |Module 8                                                   |Ethics in GIS, Project Help and Exam Review                      |Dec 7   |
-|Dec 13   |Exam                                                       |Asynchronous "take-home" exam                                    |Dec 15  |
-
+|Post Date|                          Module                           |                              Topics                              |Due Date|
+|---------|-----------------------------------------------------------|------------------------------------------------------------------|--------|
+|Sept 13  |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History ot GIS and Intro to ArcGIS Pro                            |Sept 20 |
+|Sept 20  |[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Coordinate Reference Systems                                      |Sept 27 |
+|Sept 27  |[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Spatial Data Models & Spatial Data Collection                     |Oct 18  |
+|Oct 11   |Module 4                                                   |Data Classification and Visualization                             |Oct 25  |
+|Oct 25   |Module 5                                                   |Spatial Analysis, Spatial Inference, GIS Workflows                |Nov 8   |
+|Nov 8    |Module 6                                                   |Error, Spatial Bias, Logical Fallacies, Final Project Introduction|Nov 22  |
+|Nov 22   |Module 7                                                   |GIS Applications, Research, and Ethics                            |Nov 29  |
+|Nov 29   |Review                                                     |Exam Review, Final Project Help, **Final Project Due**            |Dec 6   |
+|Dec 13   |Exam                                                       |Asynchronous, on canvas                                           |Dec 15  |
 
 <iframe src="https://calendar.google.com/calendar/embed?src=8c8pmsg6k1kf44sdn9mh84p0bg%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
