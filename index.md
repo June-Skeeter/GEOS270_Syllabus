@@ -31,7 +31,7 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 My name is June Skeeter, I am a white settler and immigrant from the United States who has been living as an uninvited guest on unceded Coast Salish Territory for six years.  I am non-binary and my pronouns are they/them/theirs.  I am a geographer, researcher, and educator with a passion for social and ecological justice.  My principal aim this semester is to providing a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
 
-I've been teaching GIS for six years, first as a TA and now as an instructor.  My aim in teaching this course is to show people how to use GIS as a tool to help make the world a better place.  I use GIS extensively is my research studying [climate change in the Arctic](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://policeinvolveddeathsincanada.github.io/DataSets/).  When I'm not working, I like to spend my free time hiking, snowboarding, baking, and gardening.  
+I've been teaching GIS for six years, first as a TA and now as an instructor.  My aim in teaching this course is to show people how to use GIS as a tool to help make the world a better place.  I use GIS extensively is my research studying [climate change in the Arctic](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://policekillingsandinolveddeathscanada.github.io/Data/).  When I'm not working, I like to spend my free time hiking, snowboarding, baking, and gardening.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -48,4 +48,4 @@ I've been teaching GIS for six years, first as a TA and now as an instructor.  M
 </div>
 <a href="docs/videos/SiteTour.mp4" target="_blank">View Video in New Tab</a>
 
-You can reach me by email (skeeter1@mail.ubc.ca) or come to my office hours [Monday's 2:00 on zoom](https://ubc.zoom.us/j/63773260301?pwd=SUlBeVd1bXRjZEVmY1FXSnNBVDJqdz09), Wednesdays after lecture, or Thursdays 2:00 room 144).  Zoom office hours are by appointment rather than drop-in, shoot me an email to let me know you plan to attend!  I'm also avaialbe to meet outside of these listed hours by request if needed.
+You can reach me by email (june.skeeter@ubc.ca) or come to my office hours [Monday's 2:00 on zoom](https://ubc.zoom.us/j/63773260301?pwd=SUlBeVd1bXRjZEVmY1FXSnNBVDJqdz09), Wednesdays after lecture, or Thursdays 2:00 room 144).  Zoom office hours are by appointment rather than drop-in, shoot me an email to let me know you plan to attend!  I'm also avaialbe to meet outside of these listed hours by request if needed.
