@@ -10,7 +10,7 @@ nav_order: 2
 
 UBC and the city of Vancouver are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically the xʷməθkʷəy̓əm (Musqueam), əl̓ilwətaɁɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh (Squamish) Nations.
 
-<img src="images/first-nations-bc.jpg" alt="hi" class="inline" width="500"/>
+<img src="docs/images/first-nations-bc.jpg" alt="hi" class="inline" width="500"/>
 
 <a href="https://opentextbc.ca/indigenizationfoundations/chapter/acknowledging-traditional-territories/" target="_blank">Map Source</a>
 
