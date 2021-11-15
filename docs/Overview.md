@@ -35,11 +35,10 @@ The course is made up of seven modules, a final project, and a comprehensive fin
 |Oct 18   |[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)                     |Data Classification and Visualization              |**Oct 25**                            |
 |Oct 25   |[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)                     |Spatial Analysis & GIS Workflows                   |**Nov 8**                             |
 |Nov 8    |[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|Reading Break, No New Material                     |**Proposal: Nov 22<br>Project: Dec 6**|
-|Nov 15   |Module 6                                                                        |Error, Spatial Bias, Logical Fallacies             |**Nov 22**                            |
+|Nov 15   |[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)                     |Error, Spatial Bias, Logical Fallacies             |**Nov 22**                            |
 |Nov 22   |Module 7                                                                        |GIS Applications, Research, and Ethics             |**Nov 29**                            |
 |Nov 29   |Review/Projects                                                                 |Exam Review, Project Help<br>**Final Projects Due**|**Dec 6**                             |
 |Dec 13   |**Exam**                                                                        |Exam is asynchronous, further details DTB          |**Dec 15**                            |
-
 
 <iframe src="https://calendar.google.com/calendar/embed?src=8c8pmsg6k1kf44sdn9mh84p0bg%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
