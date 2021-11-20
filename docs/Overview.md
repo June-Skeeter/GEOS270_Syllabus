@@ -23,7 +23,7 @@ The course is made up of seven modules, a final project, and a comprehensive fin
 | Final Project       | 20%               |
 | Final Exam          | 20%               |
 
-## Schedule
+# Schedule
 
 Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module consists of.
 
