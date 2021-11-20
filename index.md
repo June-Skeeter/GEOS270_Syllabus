@@ -41,7 +41,7 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 My name is June Skeeter, I am a white settler and immigrant from the United States who has been living as an uninvited guest on unceded Coast Salish Territory for six years.  I am non-binary and my pronouns are they/them/theirs.  I am a geographer, researcher, and educator with a passion for social and ecological justice.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
 
-<img src="docs/images/June.jpg" alt="hi" class="inline" width="250"/>
+<img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
 
 
