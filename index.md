@@ -21,7 +21,9 @@ This Syllabus is a living document and will be updated as the semester progresse
 </details>
 ---
 
-# Course Introduction Videos
+# Course Introduction Video
+
+This video provides an overview of the course syllabus.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D_BtsmFwyYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
