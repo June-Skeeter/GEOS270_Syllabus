@@ -77,3 +77,28 @@ The final project will be assigned with Module 6.  The project is a group assign
 # Final Exam
 
 The final exam will be completed asynchronously over Canvas. It will be available for completion between December 13th and 15th and you will have a 6-hour window to complete it.  The exam is not intended to take 6 hours, I just don't want anyone to feel rushed.  It will consist of a few essays, short answers, a diagram, a GIS task, fill in the blanks, matching, multiple choice, and true false questions.
+
+* 20% of your final mark!
+
+* **Cumulative**: All material from lecture and lab are fair game
+
+* 3 Day Window to Complete
+  * 0:00 Monday Dec 13th to 23:59 Wednesday Dec 15th
+  * **One Attempt** - six hours
+    * Not intended to take six hours.  I just don't want you to feel rushed.
+    * If you have a letter from access and diversity and need more than the allotted time, contact me before the exam.
+
+* Questions:
+  * Essays (42.5%)
+    * 1 on Coordinate Reference Systems
+    * 1 on Data Models
+    * 1 on Error **or** Ethics/Positionality (your choice)
+  * Flow chart question (20%)
+    * Create a flow chart outlining a GIS analysis
+    * Demonstrate understanding of tools and processes
+  * Short answer (20%)
+    * Miscellaneous topics from throughout term
+    * Map critique questions
+  * Mix of fill in the blank, matching, multiple choice, etc. (17.5%)
+
+  I will not be answering any questions related to the content of the exam while it is open.  Do not contact your TAs about the exam, they won't be answering any questions about it either.  The exam is "open book", you can reference any resources from the class or online to work through the questions.  However, all the work MUST be in your own words.  You can not copy and paste from online resources, lecture content, or lab content.  You cannot copy or work with another student either.  Plagiarism will be taken very seriously and could result in failing the exam.
