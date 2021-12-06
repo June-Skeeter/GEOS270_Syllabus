@@ -101,4 +101,8 @@ The final exam will be completed asynchronously over Canvas. It will be availabl
     * Map critique questions
   * Mix of fill in the blank, matching, multiple choice, etc. (17.5%)
 
-  I will not be answering any questions related to the content of the exam while it is open.  Do not contact your TAs about the exam, they won't be answering any questions about it either.  The exam is "open book", you can reference any resources from the class or online to work through the questions.  However, all the work MUST be in your own words.  You can not copy and paste from online resources, lecture content, or lab content.  You cannot copy or work with another student either.  Plagiarism will be taken very seriously and could result in failing the exam.
+If you experience extenuating circumstances during the exam you may reach out to me, but I **will not** be answering any questions related to the content of the exam while.  Do not contact your TAs about the exam, they will not be answering any questions during the exam period.
+
+The exam is "open book", you can reference any resources from the class or online to work through the questions.  However, all the work MUST be in your own words.  You can not copy and paste from online resources, lecture content, or lab content.  Plagiarism will be taken very seriously and could result in failing the exam.
+
+You may not copy or work with fellow students, this is also plagiarism.  Questions (including essay prompts) are being randomly assigned from a question bank, so you won't benefit from trying to collaborate anyway.
