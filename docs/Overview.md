@@ -37,7 +37,7 @@ Modules will be posted and due on the dates listed.  See [below](#modules) for i
 |Nov 8    |[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|Reading Break, No New Material                     |**Proposal: Nov 22<br>Project: Dec 7**|
 |Nov 15   |[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)                     |Error, Spatial Bias, Logical Fallacies             |**Nov 24**                            |
 |Nov 24   |[Module 7](https://june-skeeter.github.io/Module7_GEOS270/)                     |GIS Applications, Research, and Ethics             |**Dec 7**                             |
-|Dec 6    |Review/Projects                                                                 |Exam Review, Project Help<br>**Final Projects Due**|**Dec 7**                             |
+|Dec 6    |[Review](Final Exam Overview Video)                                             |Exam Review, Project Help<br>**Final Projects Due**|**Dec 7**                             |
 |Dec 13   |**Exam**                                                                        |Exam is asynchronous, further details DTB          |**Dec 15**                            |
 
 ---
