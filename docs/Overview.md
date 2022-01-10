@@ -10,8 +10,35 @@ nav_order: 3
 
 This page provides an overview of what you can expect from the course and when.  See the [Course Policies](Course Policy.md#course-policies) page for information on late polices, accommodations, and other resources.
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
+</details>
+---
+
+# Schedule
+
+The schedule will be finalized in the coming days once I get a better idea of what the term will look like.
+
+Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module contains.
+
+|Post Date|                                     Module                                     |                              Topics                              |Due Date|
+|---------|--------------------------------------------------------------------------------|------------------------------------------------------------------|--------|
+|         |Module 1                                                                        |History of GIS, Coordinate Reference Systems & Intro to ArcGIS Pro|****    |
+|         |Module 2                                                                        |Spatial Data Models & Spatial Data Collection                     |****    |
+|         |Module 3                                                                        |Data Classification and Visualization                             |****    |
+|         |Module 4                                                                        |Spatial Analysis & GIS Workflows                                  |****    |
+|         |Module 5                                                                        |Reading Break, No New Material                                    |****    |
+|         |[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|Error, Spatial Bias, Logical Fallacies                            |****    |
+|         |Module 6                                                                        |GIS Applications, Research, and Ethics                            |****    |
+|         |Review/Projects                                                                 |Exam Review, Project Help<br>**Final Projects Due**               |****    |
+|         |**Exam**                                                                        |Exam is asynchronous, further details DTB                         |****    |
+
+---
 
 # Evaluation
 
@@ -23,23 +50,7 @@ The course is made up of six modules, a final project, and a comprehensive final
 | Final Project       | 25%               |
 | Final Exam          | 25%               |
 
-# Schedule
 
-Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module consists of.
-
-|Post Date|                                     Module                                     |                              Topics                              |Due Date|
-|---------|--------------------------------------------------------------------------------|------------------------------------------------------------------|--------|
-|         |Module 1                                                                        |History ot GIS, Coordinate Reference Systems & Intro to ArcGIS Pro|****    |
-|         |Module 2                                                                        |Spatial Data Models & Spatial Data Collection                     |****    |
-|         |Module 3                                                                        |Data Classification and Visualization                             |****    |
-|         |Module 4                                                                        |Spatial Analysis & GIS Workflows                                  |****    |
-|         |Module 5                                                                        |Reading Break, No New Material                                    |****    |
-|         |[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|Error, Spatial Bias, Logical Fallacies                            |****    |
-|         |Module 6                                                                        |GIS Applications, Research, and Ethics                            |****    |
-|         |Review/Projects                                                                 |Exam Review, Project Help<br>**Final Projects Due**               |****    |
-|         |**Exam**                                                                        |Exam is asynchronous, further details DTB                         |****    |
-
----
 
 # Modules
 
@@ -58,11 +69,11 @@ The Labs will build on the lecture content and give you hands on practice workin
 
 ## Assessment
 
-Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via canvas. <!--  The assessments will consist of two parts, a quiz and an assignment. -->
+Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via a canvas quiz. You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers, only your final submission will be marked.<!--  The assessments will consist of two parts, a quiz and an assignment. -->
 <!-- 
 ### Quizzes
 
-Questions will consist of fill in the blank, multiple choice, true/false, numeric input, and other questions that can be marked automatically.  You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers.
+Questions will consist of fill in the blank, multiple choice, true/false, numeric input, and other questions that can be marked automatically.  
 
 ### Assignment
 
