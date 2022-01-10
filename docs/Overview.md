@@ -69,7 +69,9 @@ The Labs will build on the lecture content and give you hands on practice workin
 
 ## Assessment
 
-Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via a canvas quiz. You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers, only your final submission will be marked.<!--  The assessments will consist of two parts, a quiz and an assignment. -->
+Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via a canvas quiz. You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers, only your final submission will be marked.
+
+<!--  The assessments will consist of two parts, a quiz and an assignment. -->
 <!-- 
 ### Quizzes
 
