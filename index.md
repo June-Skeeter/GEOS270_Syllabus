@@ -21,11 +21,6 @@ This Syllabus is a living document and will be updated as the semester progresse
 </details>
 ---
 
-# Course Introduction Video
-
-This video provides an overview of the course syllabus.
-
-
 # Learning Outcomes
 
 This course will expose you to key concepts and tools used to collect, map, and interpret geographic data.  We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using geospatial data to solve problems in both the natural and human realms.  This term we will cover:
@@ -43,8 +38,6 @@ This course will expose you to key concepts and tools used to collect, map, and 
 My name is June Skeeter, I am a white settler and immigrant from the United States who has been living as an uninvited guest on unceded Coast Salish Territory for six years.  I am non-binary and my pronouns are they/them/theirs.  I am a geographer, researcher, and educator with a passion for social and ecological justice.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
 
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
-
-
 
 ## Contact Info
 
