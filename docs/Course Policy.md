@@ -26,11 +26,11 @@ Written answers and file submissions will be marked by your TA using a rubric.  
 
 ## Late Penalties
 
-Assessment submissions will be accepted without late penalty for seven days.  Late assignments **waive their right** to prompt grading/feedback.  Late assignments will be marked whenever is convenient for your TA (could be as late as the end of term).  Once assessment grades and answer keys are posted, **submissions will no longer be accepted**.
+Assessment submissions will be accepted without late penalty for seven days.  Late assignments **waive their right** to prompt grading/feedback.  Late assignments will be marked whenever is convenient for your TA (could be as late as the end of term).  After the seven day grace period, **submissions will no longer be accepted**.
 
-## Quizzes
+<!-- ## Quizzes
 
-Canvas quizzes have very limited functionality (eg. fill in the blank questions can't handle spelling errors).  To account for this I will download all responses and use a python script to mark quizzes.  I'll post the updated scores to Canvas and an answer key once the submission window has closed (7 days after the due date).  These scores will be reflected in the grade book, but the changes won't be reflected on the individual quiz questions in canvas.  
+Canvas quizzes have very limited functionality (eg. fill in the blank questions can't handle spelling errors).  To account for this I will download all responses and use a python script to mark quizzes.  I'll post the updated scores to Canvas and an answer key once the submission window has closed (7 days after the due date).  These scores will be reflected in the grade book, but the changes won't be reflected on the individual quiz questions in canvas.   -->
 
 
 #  Accommodations

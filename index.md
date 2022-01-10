@@ -25,7 +25,6 @@ This Syllabus is a living document and will be updated as the semester progresse
 
 This video provides an overview of the course syllabus.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D_BtsmFwyYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Learning Outcomes
 
@@ -49,15 +48,16 @@ My name is June Skeeter, I am a white settler and immigrant from the United Stat
 
 ## Contact Info
 
-You can reach me by email (june.skeeter@ubc.ca) or drop by my in person in office hours (Rom 144, Geography Bldg.), or meet me [on Zoom](https://ubc.zoom.us/j/63773260301?pwd=SUlBeVd1bXRjZEVmY1FXSnNBVDJqdz09).
+You can reach me by email at june.skeeter@ubc.ca
 
-* In person office hours are Wednesdays after lecture and Thursdays from 2:00-3:00 room 144).
-* Zoom office hours are by appointment (Monday's 203), shoot me an email to let me know you plan to attend!
-  * I'm happy to meet at other times by request with 24 hours notice.
+* Will begin hosting office hours in person(Rom 144, Geography Bldg.) once we shift back to in person learning.  For now, office hours will be held [on Zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09).
+
+* In person office hours will be held after lectures
+* Zoom office hours are by appointment, shoot me an email to request a meeting with 24 hours notice.
 
 ## My Research
 
-I use GIS extensively is my research studying [climate change in the Arctic](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://police-involved-deaths-ca.github.io/Data/).  When I'm not working, I like to spend my free time hiking, snowboarding, baking, and gardening.  
+I use GIS extensively is my research studying [climate change in the Arctic](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://police-involved-deaths-ca.github.io/Data/).  When I'm not working, I like to spend my free time hiking, snowboarding, forraging, and gardening.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;

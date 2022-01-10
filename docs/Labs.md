@@ -24,25 +24,17 @@ A major part of your learning in this course is centered on the hands-on applica
 
 # Lab Sections
 
-Lab 1A will meet synchronously on zoom, all others will meet in person at their scheduled times in room 115.  Lab attendance is strongly encouraged, but is not mandatory.  You must be registered for one of the following lab sections (all times in PDT/PST).  Labs will meet every week of term with the exception of Week 1 (Sept 6-10) and Week 10 (Nov 8-12).
+Labs will meet synchronously on zoom for now, and when (if?) in person resumes they will be in room 115.  Lab attendance is strongly encouraged, but is not mandatory.  You must be registered for one of the following lab sections (all times in PDT/PST).  Labs will meet every week of term with the exception of Week 1 (Sept 6-10) and reading break.
 
-|Lab |           Time slot    | TA                        |Status                                                                                |
-|----|------------------------|---------------------------|--------------------------------------------------------------------------------------|
-|L1A |Mondays 18:00-20:00     |[Carla](#carla-urqhart)    |[On Zoom](https://ubc.zoom.us/j/61994941147?pwd=d1dVdlJ6Yk03ZDBhbEFLS01uTU9EQT09)     |
-|L1B |Tuesdays 9:00-11:00     |[Mike](#mike-turley)       |In-Person  (RM 115)                                                                   |
-|L1C |Tuesdays 16:00-18:00    |[Mike](#mike-turley)       |In-Person  (RM 115)                                                                   |
-|L1D |Fridays 14:00-16:00     |[Carla](#carla-urqhart)    |In-Person  (RM 115)                                                                   |
+|Lab |           Time slot    |
+|----|------------------------|
+|L03 |Wednesdays 16:00-18:00  |
+|L04 |Fridays 12:00-14:00     |
 
 
-# Your TA's 
+# Your TA
 
-There are two TAs for the class, who are will lead the lab sections listed above.  Please direct any email communication regarding assignments to your TA.
-
-## Carla Urquhart
-
-My name is Carla and my pronouns are she/her/hers.  You can reach me by email: carla.urquhart@ubc.ca  I'm a PhD student here in Geography. My research is in plant ecology and biogeography: I use computer models and experiments in the greenhouse to learn about how species evolve as they spread into new habitats. Besides that, I am a life-long Vancouverite, mum to a 6 year old kiddo named Alex (he/him) and kind of a nerd. I especially love sci-fi, RPGs and building computers.
-
-<img src="images/Carla.jpg" alt="hi" class="inline" width="200"/>
+Please direct any email communication regarding assignments to your TA.
 
 ## Mike Turley
 
@@ -57,7 +49,7 @@ To complete your lab assignments, you will be using ESRI's ArcGIS Pro.  This is 
 
 ## Option 1: Geography Lab Computers ($20)
 
-The Geography Department has two computer labs (rooms 115 and 237) that may be accessed in-person when the geography building is open (7:30 am to 5:00 pm Mon-Fri *Students with evening classes/labs are given key card access until 8:30 for those particular days*).  The geography lab computers may also be accessed remotely (via remote desktop connection) 24 hours a day, 7 days a week.  If you wish to remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/).  After you pay the fee, email Jose Aparicio will send you your logon credentials.  *Jose is very busy at the end of term, it may take him a bit to get you the logon.*
+The Geography Department has two computer labs (rooms 115 and 237) that may be accessed in-person when the geography building is open (7:30 am to 5:00 pm Mon-Fri *Students with evening classes/labs are given key card access until 8:30 for those particular days*).  The geography lab computers may also be accessed remotely (via remote desktop connection) 24 hours a day, 7 days a week.  To remotely access lab computers, follow [these instructions](RemoteDesktop.pdf).  There is a $20 lab fee to use geography computers.  Every student will be assigned an account to access the Geography computer labs. You must [pay the lab fee](http://geog-epayment.sites.olt.ubc.ca/fees/geoglab-fees/).  After you pay the fee, email Jose Aparicio will send you your logon credentials.  *Jose is very busy at the end of term, it may take him a bit to get you the logon.*
 
 Information about the Geography Computer Labs can be found [here](https://geog.ubc.ca/undergraduate/study-resources/).  In particular, please refer the lab schedule and *refrain from remotely logging onto a lab computers while other courses are holding lab session in that room*.
 
@@ -95,6 +87,7 @@ This is not a viable solution for the whole semester as computer access is limit
 <img src="images/RunOnce_File_Location.PNG" alt="RunOnce" class="inline" width="500"/>
 
 During your lab, you should save your work to **C:\temp**. This is a folder stored locally on the computer you are working on.  Since it's the same machine you're working on, ArcGIS Pro can easily and quickly access and save files in this folder.  **However**, lab computers are accessed by multiple users.  A single computer in room 115 might have 20-30 different students accessing it (in person or remotely) in a given week.  Each time a new user logs on, the C:/temp folder is at risk for being overwritten.
+
 
 ### Steps for Saving to H:/
 
