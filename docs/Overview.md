@@ -82,7 +82,7 @@ Assignments will be submitted via canvas and be marked by your TA.  They will co
 
 # Final Project
 
-The final project will be assigned with Module 6.  The project is a group assignment that will be completed in groups of two to four.  You may only work on the project alone if you get approval.  GIS is a collaborative discipline and your project should be done with a group unless special circumstances necessitate otherwise.  
+The final project will be assigned with Module 5.  The project is a group assignment that will be completed in groups of two to four.  You may only work on the project alone **only** if you get approval.  GIS is a collaborative discipline and your project should be done with a group unless special circumstances necessitate otherwise.  
 
 # Final Exam
 
