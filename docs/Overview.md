@@ -26,17 +26,17 @@ The schedule will be finalized in the coming days once I get a better idea of wh
 
 Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module contains.
 
-|Post Date|                                     Module                                     |                              Topics                              |Due Date|
-|---------|--------------------------------------------------------------------------------|------------------------------------------------------------------|--------|
-|         |Module 1                                                                        |History of GIS, Coordinate Reference Systems & Intro to ArcGIS Pro|****    |
-|         |Module 2                                                                        |Spatial Data Models & Spatial Data Collection                     |****    |
-|         |Module 3                                                                        |Data Classification and Visualization                             |****    |
-|         |Module 4                                                                        |Spatial Analysis & GIS Workflows                                  |****    |
-|         |Module 5                                                                        |Reading Break, No New Material                                    |****    |
-|         |[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|Error, Spatial Bias, Logical Fallacies                            |****    |
-|         |Module 6                                                                        |GIS Applications, Research, and Ethics                            |****    |
-|         |Review/Projects                                                                 |Exam Review, Project Help<br>**Final Projects Due**               |****    |
-|         |**Exam**                                                                        |Exam is asynchronous, further details DTB                         |****    |
+|Post Date|                                     Module                                     |                              Topics                              |Due Date |
+|---------|--------------------------------------------------------------------------------|------------------------------------------------------------------|---------|
+|Jan 18   |Module 1                                                                        |History to GIS, Coordinate Reference Systems & Intro to ArcGIS Pro|**Feb 1**|
+|         |Module 2                                                                        |Spatial Data Models & Spatial Data Collection                     |****     |
+|         |Module 3                                                                        |Data Classification and Visualization                             |****     |
+|         |Module 4                                                                        |Spatial Analysis & GIS Workflows                                  |****     |
+|         |Module 5                                                                        |Reading Break, No New Material                                    |****     |
+|         |[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|Error, Spatial Bias, Logical Fallacies                            |****     |
+|         |Module 6                                                                        |GIS Applications, Research, and Ethics                            |****     |
+|         |Review/Projects                                                                 |Exam Review, Project Help<br>**Final Projects Due**               |****     |
+|         |**Exam**                                                                        |Exam is asynchronous, further details DTB                         |****     |
 
 ---
 
@@ -58,10 +58,10 @@ Each module is a lesson intended to introduce and cover specific topics within G
 
 ## Lecture Content
 
-Lecture content will consist of synchronous lectures, asynchronous video content, & course readings where applicable (there is no textbook, I'll provide .pdf files of any readings).  For now, lectures will be streamed [on Zoom](https://ubc.zoom.us/j/68315782631?pwd=RFh0QmR1SzJ3cjhwYmlYSkZNbkcydz09).  When (if?) in person lectures start back up, they will be in room 200 of the Geography Building.
+Lecture content will consist of synchronous lectures, asynchronous video content, & course readings where applicable (there is no textbook, I'll provide .pdf files of any readings).  For now, lectures will be streamed [on Zoom](https://ubc.zoom.us/j/68315782631?pwd=RFh0QmR1SzJ3cjhwYmlYSkZNbkcydz09).  When in person lectures start back up, they will be in room 200 of the Geography Building.
 * The scheduled lecture times are Tuesdays and Thursdays 17:00 - 18:00
 * Synchronous lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.
-  * When (if?) in person lectures start back up, they will be streamed and recorded for students who can not attend in person.  
+  * When in person lectures start back up, they will be streamed and recorded for students who can not attend in person.  
 
 ## Lab Applications
 

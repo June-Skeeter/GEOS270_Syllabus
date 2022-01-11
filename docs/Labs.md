@@ -68,7 +68,7 @@ You may purchase a student version of the software to install on your own comput
 
 * If you have a Mac or Linux computer, you will first have to set up a Windows partition. You can [follow these instructions](https://support.apple.com/en-ca/HT201468) **Unfortunately we cannot provide any support for this step of the installation.**
 
-**2**{: .label .label-red } Go [here](http://gis.ubc.ca/software/) to purchase, ArcGIS.
+**2**{: .label .label-red } Go [here](https://e5.onthehub.com/WebStore/OfferingDetails.aspx?o=9d867fc1-ab83-e911-8119-000d3af41938&ws=4f259259-10e4-de11-a13b-0030487d8897&vsro=8) to purchase, ArcGIS.
 
 * Important Note: ArcGIS Pro is not yet available for download directly from this site, only ArcMap.  
 * Once you make the purchase, email your receipt to Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you a link to download ArcPro.  *Jose is very busy at the beginning of term, it may take him a bit to get you the logon.*
