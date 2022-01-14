@@ -24,21 +24,25 @@ A major part of your learning in this course is centered on the hands-on applica
 
 # Lab Sections
 
-Labs will meet synchronously on zoom for now, and when (if?) in person resumes they will be in room 115.  Lab attendance is strongly encouraged, but is not mandatory.  You must be registered for one of the following lab sections (all times in PDT/PST).  Labs will meet every week of term with the exception of Week 1 (Sept 6-10) and reading break.
+Lab attendance is strongly encouraged, but is not mandatory.  You must be registered for one of the following lab sections (all times in PDT/PST).  Labs will meet every week of term with the exception of Week 1 and reading break.  Please direct any email communication regarding Labs to your TA.
 
-|Lab |           Time slot    |
-|----|------------------------|
-|L03 |Wednesdays 16:00-18:00  |
-|L04 |Fridays 12:00-14:00     |
+* Labs will meet synchronously on zoom for now.
+*  When in person resumes, labs will be in room 115.
+  * The first hour of in person labs will remain open for zoom drop in as well.
 
 
-# Your TA
+|Lab |           Time slot    |Online Access                                                                      |
+|----|------------------------|-----------------------------------------------------------------------------------|
+|L03 |Wednesdays 16:00-18:00  |[Zoom Link](https://ubc.zoom.us/j/66167849842?pwd=dEt0QkhYamJlaWVNOTFqM0JMWVlIdz09)|
+|L04 |Fridays 12:00-14:00     |[Zoom Link](https://ubc.zoom.us/j/66167849842?pwd=dEt0QkhYamJlaWVNOTFqM0JMWVlIdz09)|
 
-Please direct any email communication regarding assignments to your TA.
 
-## Mike Turley
+# Your TA: Mike Turley
 
-My name is Mike and my pronouns are he/him/his.  You can reach me by email:mbturley@student.ubc.ca  I am a Ph.D. student in the geography department interested in how landscapes respond to changing conditions such as glacier retreat. More specifically, I am trying to understand how connected or disconnected the landscape is in terms of material transfer (i.e., water, sediment, etc.), and how this changes over time. Outside of research, I am interested in backpacking, rafting, gravel biking, baking, and cartography.
+
+My name is Mike and my pronouns are he/him/his.  You can reach me by email: mbturley@student.ubc.ca
+
+* I am a Ph.D. student in the geography department interested in how landscapes respond to changing conditions such as glacier retreat. More specifically, I am trying to understand how connected or disconnected the landscape is in terms of material transfer (i.e., water, sediment, etc.), and how this changes over time. Outside of research, I am interested in backpacking, rafting, gravel biking, baking, and cartography.
 
 <img src="images/Mike.jpg" alt="hi" class="inline" width="250"/>
 
@@ -58,7 +62,7 @@ Information about the Geography Computer Labs can be found [here](https://geog.u
 <img src="images/remoteLoginScreen.png" alt="hi" class="inline" width="300"/>
 
 
-## Option 2: Purchase a Student License ($30)
+## Option 2: Purchase a Student License ($20)
 
 You may purchase a student version of the software to install on your own computer for $30. ArcGIS Pro requires a PC (i.e. a computer running Windows) but if you have a Mac or Linux machine you can get around this by building a Windows partition on your hard drive or using a virtual machine.
 
@@ -68,11 +72,14 @@ You may purchase a student version of the software to install on your own comput
 
 * If you have a Mac or Linux computer, you will first have to set up a Windows partition. You can [follow these instructions](https://support.apple.com/en-ca/HT201468) **Unfortunately we cannot provide any support for this step of the installation.**
 
-**2**{: .label .label-red } Go [here](https://e5.onthehub.com/WebStore/OfferingDetails.aspx?o=9d867fc1-ab83-e911-8119-000d3af41938&ws=4f259259-10e4-de11-a13b-0030487d8897&vsro=8) to purchase, ArcGIS.
+**2**{: .label .label-red } Go [here](https://gis.ubc.ca/software/) to purchase, ArcGIS Pro.
 
-* Important Note: ArcGIS Pro is not yet available for download directly from this site, only ArcMap.  
-* Once you make the purchase, email your receipt to Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you a link to download ArcPro.  *Jose is very busy at the beginning of term, it may take him a bit to get you the logon.*
+* Important Note: ArcGIS Pro is not yet available for download directly from this site
+* Payment must be made to through the foresty portal linked on the last step of this page (see image below)
+  * Once you make the purchase, send your receipt to Jose Aparicio at: labhelp@geog.ubc.ca Jose will then send you a link to download ArcPro.  *Jose is very busy at the beginning of term, it may take him a bit to get you the logon.*
 
+
+<img src="images/payment.png" alt="hi" class="inline" width="500"/>
 
 ## Option 3: UBC Library GIS (Last Resort)
 
@@ -94,8 +101,11 @@ During your lab, you should save your work to **C:\temp**. This is a folder stor
 It is **EXTREMELY IMPORTANT** that you save your work elsewhere before you log off.  When you sign up for your Geography lab account, you will be given server space known as your **H:/** drive folder; you should save your work here. To do so, follow these steps:
 
 **1**{: .label .label-red } Save your Map document and close ArcGIS Pro or any other software you may be using (Word, Excel, etc. ...)
+
 **2**{: .label .label-red } Launch My Computer, and navigate to C:\temp
+
 **3**{: .label .label-red } Right click on your lab folder in C:\temp and select "Copy"
+
 **4**{: .label .label-red } Navigate to **H:/** and past your lab folder here
 
 ### Steps for Retrieving from H:/
@@ -103,8 +113,11 @@ It is **EXTREMELY IMPORTANT** that you save your work elsewhere before you log o
 When you come back next time to complete the assignment, you will transfer the files in the reverse direction. This is because the H:/ drive is stored on a networked server, not the local machine, and so your machine would work very slowly if you try to work directly from the H:/ drive. To transfer your files:
 
 **1**{: .label .label-red } Log in
+
 **2**{: .label .label-red } Use My Computer to find C:\temp and delete all the files you find there since they are most likely not yours
+
 **3**{: .label .label-red } Navigate to your H drive, select your current lab's folder , and copy it to C: \ temp
+
 **4**{: .label .label-red } Resume your work
 
 ## Saving on Your own Computer

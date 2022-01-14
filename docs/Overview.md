@@ -22,13 +22,13 @@ This page provides an overview of what you can expect from the course and when. 
 
 # Schedule
 
-The schedule will be finalized in the coming days once I get a better idea of what the term will look like.
+The schedule may be adjusted a bit in the coming days once I get a better idea of what the term will look like.
 
 Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module contains.
 
 |Post Date|                                     Module                                     |                              Topics                              |Due Date |
 |---------|--------------------------------------------------------------------------------|------------------------------------------------------------------|---------|
-|Jan 18   |Module 1                                                                        |History to GIS, Coordinate Reference Systems & Intro to ArcGIS Pro|**Feb 1**|
+|Jan 18   |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)                     |History to GIS, Coordinate Reference Systems & Intro to ArcGIS Pro|**Feb 1**|
 |         |Module 2                                                                        |Spatial Data Models & Spatial Data Collection                     |****     |
 |         |Module 3                                                                        |Data Classification and Visualization                             |****     |
 |         |Module 4                                                                        |Spatial Analysis & GIS Workflows                                  |****     |

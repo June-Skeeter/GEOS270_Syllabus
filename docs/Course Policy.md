@@ -42,19 +42,9 @@ Please contact the [Center for Accessibility](https://students.ubc.ca/about-stud
 If you require an [Academic Concession](https://www.arts.ubc.ca/degree-planning/academic-performance/academic-concession/) please email me promptly so that we can work together to figure out an accommodation for your situation.  You are not obligated to explain your personal circumstances to me to justify the concession, my inent is to be accomodating.  However, you must to communicate any need for a concession in a timely manner.  If you require multiple concessions I may refer you to [Arts Advising](https://www.arts.ubc.ca/student-support/academic-support/academic-advising/).
 
 
-# COVID-19
+# Absences
 
-## Provincial Mask Mandate
-
-Provincial Health Orders and UBC policy now mandate masks in all indoor public spaces on campus. These spaces include classrooms, residence halls, libraries, and common areas. Students who wish to request an exemption to the indoor mask mandate must do so based on one of the grounds for exemption detailed in the PHO Order on Face Coverings (COVID-19). Such requests must be made through the Center for Accessibility (Vancouver campus).
- 
-After review, students that are approved for this accommodation will be provided with a letter of accommodation to share with faculty members teaching courses in which they are registered. In the intervening time, these students are welcome in the class. 
- 
-Mask wearing protects you as well as others in your environment. Let’s do everything we can as a community to stop the spread of this virus.
-
-## Absences
-
-If you are sick (with COVID or otherwise), please stay home to protect others and take care of yourself.  Lectures will be made available online and you may attend lab via zoom.  Accomodations will be made avaialbe to studetns who need them due to illnesses.  See the accoomodations section for more details.
+If you are sick (with COVID or otherwise), please stay home to protect others and take care of yourself.  Lectures will be made available online and you may attend lab via zoom.  Accommodations will be made available to students who need them due to illnesses.  See the accommodations section for more details.
 
 # Academic Integrity:
 
@@ -63,3 +53,12 @@ The academic enterprise is founded on honesty, civility, and integrity. As membe
 Plagiarism and cheating will be taken very seriously.  The first incident of plagiarism/copying/cheating will result in a zero for the assignment.  Further incidents will be reported to the President’s Advisory Committee on Student Discipline in addition to a zero.  A more detailed description of academic integrity, including the University’s policies and procedures, may be found [here](https://learningcommons.ubc.ca/academic-integrity/Links)
 
 Though you may work together with your classmates on the assignments and help each other, ALL STUDENTS MUST SUBMIT THEIR OWN ORIGINAL WORK. This means that your maps must be your own, and your answers must be in your own words. Failure to submit your own work can result in failing the assignment or worse, so please be careful. See the Academic Integrity section of the Syllabus for more information.
+
+# Strategies for Success
+
+* Be proactive 
+  * Timely communication is important!
+  * Don't wait until the last minute to set up ArcGIS Pro, do it now to save yourself a headache down the road.
+  * Drop by office hours
+  * Attend Lectures
+  * Ask Questions!
