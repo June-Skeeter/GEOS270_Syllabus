@@ -62,6 +62,11 @@ Lecture content will consist of synchronous lectures, asynchronous video content
 * The scheduled lecture times are Tuesdays and Thursdays 17:00 - 18:00
 * Synchronous lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.
   * When in person lectures start back up, they will be streamed and recorded for students who can not attend in person.  
+* Tuesdays will be formal lectures where I introduce new material and concepts
+* Thursdays will be more informal
+  * I will use the start of lecture to cover any material I didn't finish on Thursdays
+  * The remainder will be used as Q/A sessions where you can ask questions about material
+
 
 ## Lab Applications
 
