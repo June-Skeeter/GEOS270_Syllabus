@@ -83,7 +83,7 @@ You may purchase a student version of the software to install on your own comput
 
 ## Option 3: UBC Library GIS (Last Resort)
 
-This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the [Koerner Library GIS Computers]((https://koerner.library.ubc.ca/blog/remote-access-to-koerner-labs/)) remotely.
+This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the [Koerner Library GIS Computers](https://remotelabs.ubc.ca/) remotely.
 
 # Saving Your Work
 
@@ -93,7 +93,23 @@ This is not a viable solution for the whole semester as computer access is limit
 
 <img src="images/RunOnce_File_Location.PNG" alt="RunOnce" class="inline" width="500"/>
 
-During your lab, you should save your work to **C:\temp**. This is a folder stored locally on the computer you are working on.  Since it's the same machine you're working on, ArcGIS Pro can easily and quickly access and save files in this folder.  **However**, lab computers are accessed by multiple users.  A single computer in room 115 might have 20-30 different students accessing it (in person or remotely) in a given week.  Each time a new user logs on, the C:/temp folder is at risk for being overwritten.
+During your lab, you should save your work to **C:\temp**. This is a folder stored locally on the computer you are working on.  Since it's the same machine you're working on, ArcGIS Pro can easily and quickly access and save files in this folder.  **However**, lab computers are accessed by multiple users.  A single computer in room 115 might have 20-30 different students accessing it (in person or remotely) in a given week.  Each time a new user logs on, the C:/temp folder is at risk for being overwritten.  Reference the video and steps listed below for guidance on workign with the lab computers.
+
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="docs/videos/GEOS_270-Saving_Your_Work.mp4" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="docs/videos/GEOS_270-Saving_Your_Work.mp4" target="_blank">View Video in New Tab</a>
 
 
 ### Steps for Saving to H:/
