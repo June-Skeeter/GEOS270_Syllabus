@@ -34,7 +34,7 @@ Lab attendance is strongly encouraged, but is not mandatory.  You must be regist
 |Lab |           Time slot    |Online Access                                                                      |
 |----|------------------------|-----------------------------------------------------------------------------------|
 |L03 |Wednesdays 16:00-18:00  |[Zoom Link](https://ubc.zoom.us/j/66167849842?pwd=dEt0QkhYamJlaWVNOTFqM0JMWVlIdz09)|
-|L04 |Fridays 12:00-14:00     |[Zoom Link](https://ubc.zoom.us/j/66167849842?pwd=dEt0QkhYamJlaWVNOTFqM0JMWVlIdz09)|
+|L04 |Fridays 12:00-14:00     |[Zoom Link](https://ubc.zoom.us/j/64930157313?pwd=cG5sSWhsU2dFa21Ca0M1RUU1UXVVZz09)|
 
 
 # Your TA: Mike Turley
