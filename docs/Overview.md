@@ -29,7 +29,7 @@ Modules will be posted and due on the dates listed.  See [below](#modules) for i
 |Post Date|                          Module                           |                                                     Topics                                                      | Due Date |
 |---------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------|
 |Jan 18   |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History to GIS, Coordinate Reference Systems & Intro to ArcGIS Pro                                               |**Feb 1** |
-|Feb 1    |Module 2                                                   |Spatial Data Models & Spatial Data Collection                                                                    |**Feb 15**|
+|Feb 1    |[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                                                                 |**Feb 15**|
 |         |Module 3                                                   |Data Classification and Visualization                                                                            |****      |
 |         |Module 4                                                   |Spatial Analysis & GIS Workflows,[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|****      |
 |         |Module 5                                                   |Error, Spatial Bias, Logical Fallacies                                                                           |****      |

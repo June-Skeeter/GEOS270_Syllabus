@@ -99,7 +99,7 @@ During your lab, you should save your work to **C:\temp**. This is a folder stor
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="docs/videos/GEOS_270-Saving_Your_Work.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="videos/GEOS_270-Saving_Your_Work.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -109,7 +109,7 @@ During your lab, you should save your work to **C:\temp**. This is a folder stor
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="docs/videos/GEOS_270-Saving_Your_Work.mp4" target="_blank">View Video in New Tab</a>
+<a href="videos/GEOS_270-Saving_Your_Work.mp4" target="_blank">View Video in New Tab</a>
 
 
 ### Steps for Saving to H:/
