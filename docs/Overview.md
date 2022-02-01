@@ -22,10 +22,7 @@ This page provides an overview of what you can expect from the course and when. 
 
 # Schedule
 
-The schedule may be adjusted a bit in the coming days once I get a better idea of what the term will look like.
-
 Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module contains.
-
 
 |Post Date|                          Module                           |                                                     Topics                                                      | Due Date |
 |---------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------|
@@ -36,9 +33,11 @@ Modules will be posted and due on the dates listed.  See [below](#modules) for i
 |Mar 15   |Module 5                                                   |Error, Spatial Bias, Logical Fallacies                                                                           |**Mar 29**|
 |Mar 29   |Module 6                                                   |GIS Applications, Research, and Ethics                                                                           |**Apr 5** |
 |Apr 5    |Review/Projects                                            |Exam Review, Project Help<br>**Final Projects Due**                                                              |**Apr 12**|
-|Apr 13   |**Exam**                                                   |Exam is asynchronous, further details TBD                                                                        |**Apr 15**|
+|Apr 19   |**Exam**                                                   |Exam is asynchronous, further details TBD                                                                        |**Apr 21**|
 
 ---
+
+
 
 # Evaluation
 
