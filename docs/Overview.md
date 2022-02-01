@@ -26,17 +26,17 @@ The schedule may be adjusted a bit in the coming days once I get a better idea o
 
 Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module contains.
 
+
 |Post Date|                          Module                           |                                                     Topics                                                      | Due Date |
 |---------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------|
 |Jan 18   |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History to GIS, Coordinate Reference Systems & Intro to ArcGIS Pro                                               |**Feb 1** |
 |Feb 1    |[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                                                                 |**Feb 15**|
-|         |Module 3                                                   |Data Classification and Visualization                                                                            |****      |
-|         |Module 4                                                   |Spatial Analysis & GIS Workflows,[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|****      |
-|         |Module 5                                                   |Error, Spatial Bias, Logical Fallacies                                                                           |****      |
-|         |Module 6                                                   |GIS Applications, Research, and Ethics                                                                           |****      |
-|         |Review/Projects                                            |Exam Review, Project Help<br>**Final Projects Due**                                                              |****      |
-|         |**Exam**                                                   |Exam is asynchronous, further details DTB                                                                        |****      |
-
+|Feb 15   |Module 3                                                   |Data Classification and Visualization                                                                            |**Mar 1** |
+|Mar 1    |Module 4                                                   |Spatial Analysis & GIS Workflows,[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|**Mar 15**|
+|Mar 15   |Module 5                                                   |Error, Spatial Bias, Logical Fallacies                                                                           |**Mar 29**|
+|Mar 29   |Module 6                                                   |GIS Applications, Research, and Ethics                                                                           |**Apr 5** |
+|Apr 5    |Review/Projects                                            |Exam Review, Project Help<br>**Final Projects Due**                                                              |**Apr 12**|
+|Apr 13   |**Exam**                                                   |Exam is asynchronous, further details TBD                                                                        |**Apr 15**|
 
 ---
 
