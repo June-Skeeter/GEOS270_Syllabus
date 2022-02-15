@@ -43,7 +43,7 @@ My name is June Skeeter, I am a white settler and immigrant from the United Stat
 
 You can reach me by email at june.skeeter@ubc.ca
 
-* Will begin hosting office hours in person(Room 144, Geography Bldg.) once we shift back to in person learning.  For now, office hours will be held [on Zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09).
+* Will begin hosting office hours in person(Rom 144, Geography Bldg.) once we shift back to in person learning.  For now, office hours will be held [on Zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09).
 
 * I'll be available for in-person office hours every Thursday from 1-5 pm.
   * Email me to schedule a specific time if you, or just drop-in.
