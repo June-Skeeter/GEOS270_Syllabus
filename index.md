@@ -45,8 +45,10 @@ You can reach me by email at june.skeeter@ubc.ca
 
 * Will begin hosting office hours in person(Rom 144, Geography Bldg.) once we shift back to in person learning.  For now, office hours will be held [on Zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09).
 
-* In person office hours will be held after lectures
-* Zoom office hours are by appointment, shoot me an email to request a meeting with 24 hours notice.
+* I'll be available for in-person office hours every Thursday from 1-5 pm.
+  * Email me to schedule a specific time if you, or just drop-in.
+    * If its a sunny day, I may be working in the courtyard outside if I don't have anything scheduled, but feel free to meet me out there.
+* Zoom office hours are by appointment, send me an email to request a meeting with 24 hours notice.
 
 ## My Research
 
