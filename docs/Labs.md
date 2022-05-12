@@ -31,20 +31,22 @@ Lab attendance is strongly encouraged, but is not mandatory.  You must be regist
   * The first hour of in person labs will remain open for zoom drop in as well.
 
 
-|Lab |           Time slot    |Online Access                                                                      |
+|Lab |           Time slot    |Location                                                                      |
 |----|------------------------|-----------------------------------------------------------------------------------|
-|L03 |Wednesdays 16:00-18:00  |[Zoom Link](https://ubc.zoom.us/j/66167849842?pwd=dEt0QkhYamJlaWVNOTFqM0JMWVlIdz09)|
-|L04 |Fridays 12:00-14:00     |[Zoom Link](https://ubc.zoom.us/j/64930157313?pwd=cG5sSWhsU2dFa21Ca0M1RUU1UXVVZz09)|
+|L1A |Tuesday/Tursday 15:00-17:00     |In Person, Room 115 Geography Building |
+|L1B |Wednesday/Friday 10:00-12:00     |[Zoom Link](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)|
 
 
-# Your TA: Mike Turley
+# Your TA: Andrea Ku
 
 
-My name is Mike and my pronouns are he/him/his.  You can reach me by email: mbturley@student.ubc.ca
 
-* I am a Ph.D. student in the geography department interested in how landscapes respond to changing conditions such as glacier retreat. More specifically, I am trying to understand how connected or disconnected the landscape is in terms of material transfer (i.e., water, sediment, etc.), and how this changes over time. Outside of research, I am interested in backpacking, rafting, gravel biking, baking, and cartography.
+My name is Andrea and my pronouns are she/her/hers. You can reach me by email: kua12@student.ubc.ca and I am available for offie hours by appointment on Mondays at 11am (in person room 105 or on zoom).
 
-<img src="images/Mike.jpg" alt="hi" class="inline" width="250"/>
+I am a MSc student in Geography, studying fire and climate relationships in continental Southeast Asia. My research background has primarily integrated ecological concepts with GIS and remote sensing techniques. In my free time, I enjoy travelling, eating, and hiking with my dog, Lilo.
+
+
+<img src="images/Andrea.jpg" alt="hi" class="inline" width="250"/>
 
 
 # Software and computer access

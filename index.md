@@ -6,12 +6,13 @@ nav_order: 1
 
 ---
 
-# Course Syllabus: Geographic Information Science
+# Course Syllabus: GEOS 270
+## Geographic Information Science
 {: .no_toc }
 
 This Syllabus is a living document and will be updated as the semester progresses.  You can find links to all the course material along with important dates and deadlines in the course [Schedule](docs/Overview.md#course-schedule).
 
-<details open markdown="block">
+<!-- <details open markdown="block">
   <summary>
     Table of contents
   </summary>
@@ -19,7 +20,7 @@ This Syllabus is a living document and will be updated as the semester progresse
 1. TOC
 {:toc}
 </details>
----
+--- -->
 
 # Learning Outcomes
 
@@ -52,7 +53,7 @@ You can reach me by email at june.skeeter@ubc.ca
 
 ## My Research
 
-I use GIS extensively is my research studying [climate change in the Arctic](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://police-involved-deaths-ca.github.io/Data/).  When I'm not working, I like to spend my free time hiking, snowboarding, forraging, and gardening.  
+I use GIS extensively is my research studying [climate change in the wetland ecosystems](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://police-involved-deaths-ca.github.io/Data/).  When I'm not working, I like to spend my free time hiking, snowboarding, forraging, and gardening.  
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
