@@ -8,8 +8,6 @@ nav_order: 2
 # Territorial and Cultural Acknowledgement
 {: .no_toc }
 
-The University of British Columbia and the city of Vancouver are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically the xʷməθkʷəy̓əm (Musqueam), əl̓ilwətaɁɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh (Squamish) Nations. 
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -19,9 +17,13 @@ The University of British Columbia and the city of Vancouver are on the traditio
 {:toc}
 </details>
 
-# First Nations Territories in BC
+---
 
- There are nearly 200 First Nations spread through BC, and many more across the continent.  To learn more about the Indigenous people, culture, and languages where you live and around the world, check out [native-land.ca](https://native-land.ca/).
+## First Nations Territories in BC
+
+The University of British Columbia and the city of Vancouver are on the traditional, ancestral, and unceded territory of the Coast Salish Peoples.  Specifically the xʷməθkʷəy̓əm (Musqueam), əl̓ilwətaɁɬ (Tsleil-Waututh), and Skwxwú7mesh-ulh (Squamish) Nations. 
+
+There are nearly 200 First Nations spread through BC, and many more across the continent.  To learn more about the Indigenous people, culture, and languages where you live and around the world, check out [native-land.ca](https://native-land.ca/).
 
 <img src="images/first-nations-bc.jpg" alt="missing" class="inline" width="500"/>
 
@@ -29,12 +31,14 @@ The University of British Columbia and the city of Vancouver are on the traditio
 
 ---
 
-# Why Do an Acknowledgement?
+## Why Do an Acknowledgement?
 
 For centuries, settler societies have perpetuated a genocide against Indigenous people across the globe.  In many ways this genocide is still ongoing here in British Columbia and across Canada.  There has been concerted effort by the government, religious organizations, and educational institutions to erase Indigenous cultures and identity from both the land and the map.  Historically, maps have been used as tools of oppression and we must work to de-colonize our practices in GIS.
 * A land acknowledgement is one small way to help with that, but it cannot be treated as a formality.  It is a time to reflect and build understanding.  
 
-# What Does it Mean?
+---
+
+## What Does it Mean?
 
 What do we mean when we say **traditional**, **ancestral**, and **unceded territory**?  It is meant to convey a deep rooted cultural connection to the land and coven the historical and present day injustices and violence enacted on Indigenous communities through colonialism.
 

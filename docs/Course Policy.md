@@ -2,7 +2,7 @@
 layout: default
 title: Course Policies
 # parent: Syllabus
-nav_order: 5
+nav_order: 4
 ---
 
 # Course Policies

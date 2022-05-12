@@ -6,13 +6,10 @@ nav_order: 1
 
 ---
 
-# Course Syllabus: GEOS 270
-## Geographic Information Science
+# Geographic Information Science
 {: .no_toc }
 
-This Syllabus is a living document and will be updated as the semester progresses.  You can find links to all the course material along with important dates and deadlines in the course [Schedule](docs/Overview.md#course-schedule).
-
-<!-- <details open markdown="block">
+<details open markdown="block">
   <summary>
     Table of contents
   </summary>
@@ -20,9 +17,10 @@ This Syllabus is a living document and will be updated as the semester progresse
 1. TOC
 {:toc}
 </details>
---- -->
 
-# Learning Outcomes
+---
+
+## Learning Outcomes
 
 This course will expose you to key concepts and tools used to collect, map, and interpret geographic data.  We will learn how geospatial data can be used to aid decision-making, complement scientific analysis, assist with urban planning, and help inform policy-making.  You will gain practical experience using geospatial data to solve problems in both the natural and human realms.  This term we will cover:
 
@@ -34,38 +32,65 @@ This course will expose you to key concepts and tools used to collect, map, and 
 * The ethical implications of GIS analysis.
 * GIS workflows and collaborating to complete a GIS project.
 
-# Your Instructor
+---
 
-My name is June Skeeter, I am a white settler and immigrant from the United States who has been living as an uninvited guest on unceded Coast Salish Territory for six years.  I am non-binary and my pronouns are they/them/theirs.  I am a geographer, researcher, and educator with a passion for social and ecological justice.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
+## Course Schedule
+
+|                           Name                            |                               Topics                                |Post Date|                   Due Date                   |
+|-----------------------------------------------------------|---------------------------------------------------------------------|---------|----------------------------------------------|
+|[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History of GIS, Coordinate Reference Systems <br> Intro to ArcGIS Pro|May 17   |May 24                                        |
+|[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                     |May 24   |May 31                                        |
+|[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Data Classification & Visualization                                  |May 31   |June 7                                        |
+|[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)|Spatial Analysis & GIS Workflows <br> Final Project Overview         |June 2   |June 9                                        |
+|[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |June 9   |June 16                                       |
+|[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)|GIS Applications & Research, Ethics,<br> Exam Review                 |June 16  |June 23                                       |
+|[Final Project](docs/Final_Project.md)                     |Proposal & Report                                                    |June 14  |**Proposal**: June 15 <br> **Report**: June 22|
+|[Final Exam](docs/Overview.md/##Final_Exam)                |Asynchronous on Canvas                                               |June 28  |June 29                                       |
+
+---
+
+## Lab Sections
+
+
+You must be registered for one of the following lab sections, which will meet 2x week each throughout the term.  Lab attendance is strongly encouraged, but is not mandatory.  
+
+|Lab |           Time slot         |Location                                                                      |
+|----|------------------------------|-----------------------------------------------------------------------------------|
+|L1A |Tuesday/Tursday 15:00-17:00     |In Person, Room 115 Geography Building |
+|L1B |Wednesday/Friday 10:00-12:00     |[Zoom Link](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)|
+
+---
+
+## Your Instructor
+
+| Name | June Skeeter |
+| Pronouns | They/Them/Theirs |
+| Email | june.skeeter@ubc.ca |
+| Office | Room 144, Geography Bldg. |
+| Office Hours| Tuesdays/Thursdays after lecture 14:00-15:00 or or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) by appointment |
 
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
-## Contact Info
+My name is June and I am a non-binary geographer, researcher, and educator.  I have been living as an uninvited guest on unceded Coast Salish Territory since 2015 and (will soon receive) a PhD in Geography from the University of British Columbia in 2022.
 
-You can reach me by email at june.skeeter@ubc.ca
+I have been teaching GEOS 270 since 2020.  I am passionate about teaching Geographic Information Science and using Geographic Information Systems as a tool to address social and ecological justice issues.  My principal aim this semester is to provide a holistic introduction to the study of Geographic Information Science and application of Geographic Information Systems.
 
-* Will begin hosting office hours in person(Rom 144, Geography Bldg.) once we shift back to in person learning.  For now, office hours will be held [on Zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09).
+I use GIS extensively is my research on climate change in the wetland ecosystems.  For my PhD, I studied greenhouse gas exchange remote [Arctic Ecosystems](https://cdnsciencepub.com/doi/full/10.1139/as-2021-0034).  Now I am working for the [UBC Micrometeorology Lab](https://blogs.ubc.ca/saraknox/) studying greenhouse gas exchange in local wetlands in Vancouver.  When I'm not working, I like to spend my free time hiking, gardening, foraging, and going to drag shows.  
 
-* I'll be available for in-person office hours every Thursday from 1-5 pm.
-  * Email me to schedule a specific time if you, or just drop-in.
-    * If its a sunny day, I may be working in the courtyard outside if I don't have anything scheduled, but feel free to meet me out there.
-* Zoom office hours are by appointment, send me an email to request a meeting with 24 hours notice.
 
-## My Research
 
-I use GIS extensively is my research studying [climate change in the wetland ecosystems](https://bg.copernicus.org/articles/17/4421/2020/bg-17-4421-2020.html).  More recently, I've started using GIS to [track police violence in Canada](https://police-involved-deaths-ca.github.io/Data/).  When I'm not working, I like to spend my free time hiking, snowboarding, forraging, and gardening.  
+---
 
-<div style="overflow: hidden;
-  padding-top: 56.25%;
-  position: relative">
-  <iframe src="docs/videos/SiteTour.mp4" title="Processes" scrolling="no" frameborder="0"
-    style="border: 0;
-   height: 100%;
-   left: 0;
-   position: absolute;
-   top: 0;
-   width: 100%;">
-   <p>Your browser does not support iframes.</p>
- </iframe>
-</div>
-<a href="docs/videos/SiteTour.mp4" target="_blank">View Video in New Tab</a>
+## Your TA
+
+| Name | Andrea Ku |
+| Pronouns | She/Her/Hers |
+| Email | kua12@student.ubc.ca |
+| Office | Room 105, Geography Bldg. |
+| Office Hours| By appointment on Mondays at 11 am (in person or on zoom) |
+
+
+My name is Andrea and I am a MSc student in Geography, studying fire and climate relationships in continental Southeast Asia. My research background has primarily integrated ecological concepts with GIS and remote sensing techniques. In my free time, I enjoy traveling, eating, and hiking with my dog, Lilo.
+
+<img src="docs/images/Andrea.jpg" alt="hi" class="inline" width="300"/>
+

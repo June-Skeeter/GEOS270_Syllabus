@@ -16,27 +16,10 @@ nav_order: 3
 1. TOC
 {:toc}
 </details>
----
-
-# Schedule
-
-Modules will be posted and due on the dates listed.  See [below](#modules) for information on what each module contains.
-
-
-|Post Date|                          Module                           |                                                     Topics                                                      | Due Date  |
-|---------|-----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|-----------|
-|May 17   |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History to GIS, Coordinate Reference Systems & Intro to ArcGIS Pro                                               |**May 24** |
-|May 24   |[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                                                                 |**May 31** |
-|May 31   |[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Data Classification and Visualization                                                                            |**June 7** |
-|June 7   |[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)|Spatial Analysis & GIS Workflows,[**Final Project Intro**](https://june-skeeter.github.io/FinalProjects_GEOS270/)|**June 14**|
-|June 14  |[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Sampling & Interpolation; Error, Spatial Bias & Logical Fallacies                                                |**June 24**|
-|June 21  |[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)|GIS Applications, Research, and Ethics                                                                           |**June 26**|
-|June 24  |Review/Projects                                            |Exam Review, Project Help<br>**Final Projects Due**                                                              |**June 26**|
-|June 26  |**Exam**                                                   |Exam is asynchronous, further details TBD                                                                        |**June 27**|
 
 ---
 
-# Evaluation
+## Evaluation
 
 The course is made up of six modules, a final project, and a comprehensive final exam.  The six modules will each be worth 10% of your final grade and the lowest scoring module will be dropped.  The final project and exam will both be worth 25% of your final grade.
 
@@ -46,7 +29,7 @@ The course is made up of six modules, a final project, and a comprehensive final
 | Final Project       | 25%               |
 | Final Exam          | 25%               |
 
-
+---
 
 ## Modules
 
@@ -55,75 +38,42 @@ Each module is a lesson intended to introduce and cover specific topics within G
 ### Lecture Content
 {: .no_toc}
 
-Lecture content will consist of synchronous lectures, asynchronous video content, & course readings where applicable (there is no textbook, I'll provide .pdf files of any readings).  For now, lectures will be streamed [on Zoom](https://ubc.zoom.us/j/68315782631?pwd=RFh0QmR1SzJ3cjhwYmlYSkZNbkcydz09).  When in person lectures start back up, they will be in room 200 of the Geography Building.
-* The scheduled lecture times are Tuesdays and Thursdays 17:00 - 18:00
+Lecture content will consist of synchronous lectures, asynchronous video content, & course readings where applicable (there is no textbook, I'll provide .pdf files of any readings).  Lectures will be in person in GEOG 101, Tuesday/Thursday from 12:00 - 14:00.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68315782631?pwd=RFh0QmR1SzJ3cjhwYmlYSkZNbkcydz09) for those whoe cannot attend in person and recordings will be made avaialbe on canvas.
 * Synchronous lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.
-  * When in person lectures start back up, they will be streamed and recorded for students who can not attend in person.  
-* Tuesdays will be formal lectures where I introduce new material and concepts
-* Thursdays will be more informal
-  * I will use the start of lecture to cover any material I didn't finish on Thursdays
-  * The remainder will be used as Q/A sessions where you can ask questions about material
 
 
 ### Lab Applications
 {: .no_toc}
-
 
 The Labs will build on the lecture content and give you hands on practice working with GIS software.  You can work through these in your lab section.  See the [Lab Access](/Labs.md) page for more details on specifics. 
 
 ### Assessment
 {: .no_toc}
 
-
 Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via a canvas quiz. You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers, only your final submission will be marked.
 
-<!--  The assessments will consist of two parts, a quiz and an assignment. -->
-<!-- 
-### Quizzes
-
-Questions will consist of fill in the blank, multiple choice, true/false, numeric input, and other questions that can be marked automatically.  
-
-### Assignment
-
-Assignments will be submitted via canvas and be marked by your TA.  They will consist of written answers to questions as well as file submissions (maps/charts).
- -->
-
-## Final Project
-
-The final project will be assigned with Module 5.  The project is a group assignment that will be completed in groups of two to four.  You may only work on the project alone **only** if you get approval.  GIS is a collaborative discipline and your project should be done with a group unless special circumstances necessitate otherwise.  
+---
 
 ## Final Exam
 
-The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a diagram, a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  I'll post more details later in term.
+The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a flowchart question illustrating how to complete a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  The exam will cumulative and count for 25% of your final mark.
 
-<!-- 
-It will be available for completion between December 13th and 15th and you will have a 6-hour window to complete it.  The exam is not intended to take 6 hours, I just don't want anyone to feel rushed.   -->
-
-<!-- * 25% of your final mark!
-
-* **Cumulative**: All material from lecture and lab are fair game
-
-* 3 Day Window to Complete
-  * 0:00 Monday Dec 13th to 23:59 Wednesday Dec 15th
+* 2 Day Window to Complete
+  * 0:00 June 27th to 23:59 June 28th
   * **One Attempt** - six hours
     * Not intended to take six hours.  I just don't want you to feel rushed.
-    * If you have a letter from access and diversity and need more than the allotted time, contact me before the exam.
+    * If you have a letter from access and diversity and need more than the allotted time, contact me **before** the exam.
 
-* Questions:
-  * Essays (42.5%)
-    * 1 on Coordinate Reference Systems
-    * 1 on Data Models
-    * 1 on Error **or** Ethics/Positionality (your choice)
-  * Flow chart question (20%)
+* Questions: *subject to adjustment*
+  * Essays (~ 40%)
+  * Flow chart question (~ 20%)
     * Create a flow chart outlining a GIS analysis
-    * Demonstrate understanding of tools and processes
-  * Short answer (20%)
-    * Miscellaneous topics from throughout term
-    * Map critique questions
-  * Mix of fill in the blank, matching, multiple choice, etc. (17.5%)
+  * Short answer (~ 25%)
+  * Mix of matching, fill in the blank, multiple choice, etc. (~ 15%)
 
-If you experience extenuating circumstances during the exam you may reach out to me, but I **will not** be answering any questions related to the content of the exam while.  Do not contact your TAs about the exam, they will not be answering any questions during the exam period.
 
-The exam is "open book", you can reference any resources from the class or online to work through the questions.  However, all the work MUST be in your own words.  You can not copy and paste from online resources, lecture content, or lab content.  Plagiarism will be taken very seriously and could result in failing the exam.
+---
 
-You may not copy or work with fellow students, this is also plagiarism.  Questions (including essay prompts) are being randomly assigned from a question bank, so you won't benefit from trying to collaborate anyway. -->
+## Final Project
+
+The project is a group assignment (2-4 members) that will account for 25% of your final grade.  GIS is a collaborative discipline and your project should be done with a group unless special circumstances necessitate otherwise.  You may only work on the project alone **only** if you get approval.  I will introduce the project in depth later on in term, but if you'd like to plan ahead, you can find details on the [Final Proejct Page](docs/Final_Project.md) 
