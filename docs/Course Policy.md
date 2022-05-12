@@ -2,13 +2,13 @@
 layout: default
 title: Course Policies
 # parent: Syllabus
-nav_order: 5
+nav_order: 4
 ---
 
 # Course Policies
 {: .no_toc }
 
-My aim for this semester is to provide a flexible and supportive learning environment while respecting the boundaries of myself and your TAs.  These course policies are intended to establish a framework for navigating the course.
+My aim for this semester is to provide a flexible and supportive learning environment while respecting the boundaries of myself and your TA.  These course policies are intended to establish a framework for navigating the course.
 
 <details open markdown="block">
   <summary>
@@ -25,26 +25,26 @@ My aim for this semester is to provide a flexible and supportive learning enviro
 Written answers and file submissions will be marked by your TA using a rubric.  Assignments submitted by the due date will be graded and returned seven days after the due date.  Short comments will be provided where applicable on written/file submissions and answer keys will be posted for the quizzes.  If you want further feedback on you lab assignment ask your TA in lab or by email.
 
 ## Late Penalties
+{: .no_toc }
 
 Assessment submissions will be accepted without late penalty for seven days.  Late assignments **waive their right** to prompt grading/feedback.  Late assignments will be marked whenever is convenient for your TA (could be as late as the end of term).  After the seven day grace period, **submissions will no longer be accepted**.
 
-<!-- ## Quizzes
-
-Canvas quizzes have very limited functionality (eg. fill in the blank questions can't handle spelling errors).  To account for this I will download all responses and use a python script to mark quizzes.  I'll post the updated scores to Canvas and an answer key once the submission window has closed (7 days after the due date).  These scores will be reflected in the grade book, but the changes won't be reflected on the individual quiz questions in canvas.   -->
-
-
 #  Accommodations
+
+My aim is to be flexible and accommodating.  I can make accommodations for you on a case by case basis, but it is your responsibility to communicate your needs in a timely fashion (i.e. email before an assignment is due)
 
 Please contact the [Center for Accessibility](https://students.ubc.ca/about-student-services/centre-for-accessibility) if you require accommodations for a disability.  If you are registered please make me aware of any necessary accommodations by email in a timely manner.
 
+## Absences
+{: .no_toc }
+
+If you are sick (with COVID or otherwise), please stay home to protect others and take care of yourself.  Lectures will be available online and you may attend lab via zoom.
+
 ## Concessions
+{: .no_toc }
 
 If you require an [Academic Concession](https://www.arts.ubc.ca/degree-planning/academic-performance/academic-concession/) please email me promptly so that we can work together to figure out an accommodation for your situation.  You are not obligated to explain your personal circumstances to me to justify the concession, my inent is to be accomodating.  However, you must to communicate any need for a concession in a timely manner.  If you require multiple concessions I may refer you to [Arts Advising](https://www.arts.ubc.ca/student-support/academic-support/academic-advising/).
 
-
-# Absences
-
-If you are sick (with COVID or otherwise), please stay home to protect others and take care of yourself.  Lectures will be made available online and you may attend lab via zoom.  Accommodations will be made available to students who need them due to illnesses.  See the accommodations section for more details.
 
 # Academic Integrity:
 
