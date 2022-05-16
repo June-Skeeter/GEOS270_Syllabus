@@ -38,19 +38,19 @@ Each module is a lesson intended to introduce and cover specific topics within G
 ### Lecture Content
 {: .no_toc}
 
-Lecture content will consist of synchronous lectures, asynchronous video content, & course readings where applicable (there is no textbook, I'll provide .pdf files of any readings).  Lectures will be in person in GEOG 101, Tuesday/Thursday from 12:00 - 14:00.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68315782631?pwd=RFh0QmR1SzJ3cjhwYmlYSkZNbkcydz09) for those whoe cannot attend in person and recordings will be made avaialbe on canvas.
+Lecture content will consist of synchronous lectures, asynchronous video content, & course readings where applicable (there is no textbook, I'll provide .pdf files of any readings).  Lectures will be in person in GEOG 101, Tuesday/Thursday from 12:00 - 14:00.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68315782631?pwd=RFh0QmR1SzJ3cjhwYmlYSkZNbkcydz09) for those who cannot attend in person and recordings will be made available on canvas.
 * Synchronous lectures will cover the module content in depth and serve as your chance to ask questions and engage in discussion about the material.
 
 
 ### Lab Applications
 {: .no_toc}
 
-The Labs will build on the lecture content and give you hands on practice working with GIS software.  You can work through these in your lab section.  See the [Lab Access](/Labs.md) page for more details on specifics. 
+The labs will build on the lecture content and give you hands on practice working with GIS software.  You can work through these in your lab section.  See the [Lab Access](/Labs.md) page for more details on specifics. 
 
 ### Assessment
 {: .no_toc}
 
-Each assessment will will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via a canvas quiz. You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers, only your final submission will be marked.
+Each assessment will be due on the date listed in the [Course Schedule](#course-schedule).  The assessments will cover both lecture and lab material and will be submitted via a canvas quiz. You will be allowed multiple attempts for quizzes in case you make a mistake or would like to update your answers, only your final submission will be marked.
 
 ---
 
