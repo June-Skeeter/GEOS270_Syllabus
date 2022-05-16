@@ -50,6 +50,12 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 ---
 
+## Lecture
+
+Lectures are held Tuesday/Thrusday 12:00-14:00 in room 101 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)
+
+---
+
 ## Lab Sections
 
 
