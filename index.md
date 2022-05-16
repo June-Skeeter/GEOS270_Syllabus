@@ -87,7 +87,7 @@ I use GIS extensively is my research on climate change in the wetland ecosystems
 | Pronouns | She/Her/Hers |
 | Email | kua12@student.ubc.ca |
 | Office | Room 105, Geography Bldg. |
-| Office Hours| By appointment on Mondays at 11 am (in person or on zoom) |
+| Office Hours| Mondays at 11 am, or by appointment. Please email if you prefer to meet on Zoom! |
 
 
 My name is Andrea and I am a MSc student in Geography, studying fire and climate relationships in continental Southeast Asia. My research background has primarily integrated ecological concepts with GIS and remote sensing techniques. In my free time, I enjoy traveling, eating, and hiking with my dog, Lilo.
