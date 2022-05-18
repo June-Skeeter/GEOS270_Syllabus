@@ -92,7 +92,7 @@ I use GIS extensively is my research on climate change in the wetland ecosystems
 
 | Name | Andrea Ku |
 | Pronouns | She/Her/Hers |
-| Email | kua12@student.ubc.ca |
+| Email | kua12@mail.ubc.ca |
 | Office | Room 105, Geography Bldg. |
 | Office Hours| Mondays at 11 am, or by appointment. Please email if you prefer to meet on Zoom! |
 
