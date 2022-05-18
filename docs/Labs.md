@@ -55,4 +55,4 @@ You may purchase a student version of the software to install on your own comput
 
 ## Option 3: UBC Library GIS (Last Resort)
 
-This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the Koerner Library GIS Computers in person in room 217 or the computers in [room 218 remotely](https://remotelabs.ubc.ca/).  These computers are not guranteed to be running most up to dat version of ArcGIS Pro.
+This is not a viable solution for the whole semester as computer access is limited.  However, if you are in a pinch, you can access the Koerner Library GIS Computers in person in room 217 or the computers in [room 218 remotely](https://remotelabs.ubc.ca/).  These computers are not guranteed to be running most up to date version of ArcGIS Pro.
