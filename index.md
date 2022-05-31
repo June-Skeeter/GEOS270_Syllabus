@@ -46,7 +46,7 @@ This course will expose you to key concepts and tools used to collect, map, and 
 |[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |June 9   |June 16                                       |
 |[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)|GIS Applications & Research, Ethics,<br> Exam Review                 |June 16  |June 23                                       |
 |[Final Project](docs/Final_Project.md)                     |Proposal & Report                                                    |June 7   |**Proposal**: June 14 <br> **Report**: June 22|
-|[Final Exam](docs/Overview.md/##final-exam)                |Asynchronous on Canvas                                               |June 29  |June 29                                       |
+|[Final Exam](docs/Overview.md/##final-exam)                |Asynchronous on Canvas                                               |June 27  |June 28*                                      |
 
 ---
 

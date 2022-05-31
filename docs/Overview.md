@@ -59,7 +59,7 @@ Each assessment will be due on the date listed in the [Course Schedule](#course-
 The final exam will be completed asynchronously over Canvas. It will consist of a few essays, short answers, a flowchart question illustrating how to complete a GIS task, fill in the blanks, matching, multiple choice, and true false questions.  The exam will cumulative and count for 25% of your final mark.
 
 * 24 Hour Window to Complete
-  * 0:00 June 29th to 23:59 June 29th
+  * 0:00 June 27th to 23:59 June 28th *(29th will an option if needed, but contact June to schedule)*
   * **One Attempt** - six hours
     * Not intended to take six hours.  I just don't want you to feel rushed.
     * If you have a letter from access and diversity and need more than the allotted time, contact me **before** the exam.
