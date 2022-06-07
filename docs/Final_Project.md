@@ -57,7 +57,7 @@ I encourage you to work in groups, however I also recognize group work can be ve
 
 The proposal is intended to get you thinking about the project sooner rather than later, so you aren't stuck scrambling at the last minute.  See the [Project Proposal](docs/Project_Proposal.md) page for details.  The proposal is due **Tuesday June 14th**
 
-Download and format your data during this step. Review the datasets and determine which layers and associated attributes you will need for your study. Pay special attention to the format of the data, and to the projection information before starting your analysis.  It is important to insure you can access the desired data before starting your project!
+Download and format your data during this step. Review the datasets and determine which layers and associated attributes you will need for your study. Pay special attention to the format of the data, and to the projection information before starting your analysis.  It is important to ensure you can access the desired data before starting your project!
 
  
 ### GIS Analysis   
