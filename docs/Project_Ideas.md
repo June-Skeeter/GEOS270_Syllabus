@@ -42,14 +42,15 @@ Possible Analysis to consider
 * Proximity Analysis
 
 
-# Landslides in Burn Zones 
+# Landslides in Burn Zones
 
-Forest fires are also some of the worst natural disasters impacting the province.  Climate change and human activity are changing fire dynamics and leading to costlier fire seasons.  After severe fires, intense precipitation events can trigger landslides.  The burn severity data is available for 2015-2019 for BC.  Select a Fire Center (I suggest not doing Coastal Fire Centre).   Use DEM data (google earth) to calculate slope and combine with burn severity and precipitation (HectaresBC) to create landslide risk classification.  Your selected Fire Center can serve as your boundary file for the DEM download.
+Forest fires are also some of the worst natural disasters impacting the province.  Climate change and human activity are changing fire dynamics and leading to costlier fire seasons.  After severe fires, intense precipitation events can trigger landslides.  The burn severity data is available for 2015-2019 for BC.  Select a Fire Center (I suggest not doing Coastal Fire Centre).   Use DEM data (google earth) to calculate slope and combine with burn severity and precipitation (HectaresBC) to create landslide risk classification.  Your selected Fire Center can serve as your boundary file for the DEM download. *This could also be adapted to look at logging instead of fires!*
 
 Possible Analysis to consider   
 * Slope & Reclassify
 * Weighted Overlay or Raster Calculator
 * Proximity Analysis
+* Flow Analysis
 
 
 # Air Quality in BC 

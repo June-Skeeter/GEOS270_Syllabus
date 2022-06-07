@@ -42,8 +42,8 @@ This course will expose you to key concepts and tools used to collect, map, and 
 |[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History of GIS, Coordinate Reference Systems <br> Intro to ArcGIS Pro|May 17   |May 24                                        |
 |[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                     |May 24   |May 31                                        |
 |[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Data Classification & Visualization                                  |May 31   |June 7                                        |
-|[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)|Spatial Analysis & GIS Workflows <br> Final Project Overview         |June 2   |June 9                                        |
-|[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |June 9   |June 16                                       |
+|[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)|Spatial Analysis & GIS Workflows <br> Final Project Overview         |June 2   |June 10                                        |
+|[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |June 9   |June 17                                       |
 |[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)|GIS Applications & Research, Ethics,<br> Exam Review                 |June 16  |June 23                                       |
 |[Final Project](docs/Final_Project.md)                     |Proposal & Report                                                    |June 7   |**Proposal**: June 14 <br> **Report**: June 22|
 |[Final Exam](docs/Overview.md/##final-exam)                |Asynchronous on Canvas                                               |June 27  |June 28*                                      |

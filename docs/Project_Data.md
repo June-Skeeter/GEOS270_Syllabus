@@ -54,9 +54,6 @@ Export.image.toDrive({
 * Freshwater Atlas Coastlines
 * BC Wildfire Fire Centres
 * Fire Burn Severity - Historical
-
-
-
 * Some downloads from this site require you to filter by [Map sheets](https://open.canada.ca/data/en/dataset/055919c2-101e-4329-bfd7-1d0c333c0e62)
 
 ## Municipal Data Sources
