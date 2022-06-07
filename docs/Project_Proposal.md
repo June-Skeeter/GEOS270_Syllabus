@@ -7,7 +7,7 @@ nav_order: 4
 
 # Project Proposal
 
-Your proposal is a **Tentative** plan, you can change it after need/want.  The proposal is intended to help you approach the project with a well rounded idea and provide clarity on the expectations for the project.  Please use the proposal form here in [.pdf](content/Final-Project-Proposal-Form.pdf) or [.docx](content/Final-Project-Proposal-Form.docx).  The form includes space for: 
+Your proposal is a **Tentative** plan, you can change it after need/want.  The proposal is intended to help you approach the project with a well rounded idea and provide clarity on the expectations for the project.  Please use the proposal form here in [.pdf](Final-Project-Proposal-Form.pdf) or [.docx](Final-Project-Proposal-Form.docx).  The form includes space for: 
 
 * A brief description of the topic
 * The data sets that you will use
