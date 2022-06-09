@@ -74,7 +74,7 @@ You must be registered for one of the following lab sections, which will meet 2x
 | Pronouns | They/Them/Theirs |
 | Email | june.skeeter@ubc.ca |
 | Office | Room 144, Geography Bldg. |
-| Office Hours| Tuesdays/Thursdays **before** lecture 10:00-12:00 & **after** lecture 14:00-15:00 or or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment* |
+| Office Hours| Tuesdays/Thursdays<br>**Before** lecture 10:00-12:00 & **after** lecture 14:00-15:00 <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment* |
 
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
