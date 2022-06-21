@@ -8,7 +8,7 @@ nav_order: 2
 # Project Ideas
 {: .no_toc }
 
-The ideas listed below are meant as a starting point, you should flush them out and come up with a suitable approach to analyze the problem.  You are also free develop your own project idea.  I suggest you focused on BC/Vancouver just because we are more familiar with local data sources.  You are free to explore other geographical regions as well, but be advised that we may not be able to privide as much assistance with searching for data.
+The ideas listed below are meant as a starting point, you should flush them out and come up with a suitable approach to analyze the problem.  You are also free develop your own project idea.  I suggest you focused on BC/Vancouver just because we are more familiar with local data sources.  You are free to explore other geographical regions as well, but be advised that we may not be able to provide as much assistance with searching for data.
 
 
 1. TOC
