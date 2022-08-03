@@ -42,14 +42,14 @@ title: Syllabus GEOS 270
 remote_theme: pmarsceill/just-the-docs
 # theme: "just-the-docs"
 search_enabled: true
-github_repo_url: "https://github.com/June-Skeeter/GEOS270_Syllabus_2022_S1"
+github_repo_url: "https://github.com/June-Skeeter/GEOS270_Syllabus"
 
 # Enable or disable heading anchors
 heading_anchors: true
 
 aux_links:
   "View on github":
-    - "//github.com/June-Skeeter/GEOS270_Syllabus_2022_S1"
+    - "//github.com/June-Skeeter/GEOS270_Syllabus"
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"

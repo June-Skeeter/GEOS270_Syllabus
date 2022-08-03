@@ -39,32 +39,34 @@ This course will expose you to key concepts and tools used to collect, map, and 
 
 |                           Name                            |                               Topics                                |Post Date|                   Due Date                   |
 |-----------------------------------------------------------|---------------------------------------------------------------------|---------|----------------------------------------------|
-|[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History of GIS, Coordinate Reference Systems <br> Intro to ArcGIS Pro|May 17   |May 24                                        |
-|[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                     |May 24   |May 31                                        |
-|[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Data Classification & Visualization                                  |May 31   |June 7                                        |
-|[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)|Spatial Analysis & GIS Workflows <br> Final Project Overview         |June 2   |June 10                                        |
-|[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |June 9   |June 17                                       |
-|[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)|GIS Applications & Research, Ethics,<br> Exam Review                 |June 16  |June 23                                       |
-|[Final Project](docs/Final_Project.md)                     |Proposal & Report                                                    |June 7   |**Proposal**: June 14 <br> **Report**: June 22|
-|[Final Exam](docs/Overview.md/##final-exam)                |Asynchronous on Canvas                                               |June 27  |June 28*                                      |
+|[Module 1](https://june-skeeter.github.io/Module1_GEOS270/)|History of GIS, Coordinate Reference Systems <br> Intro to ArcGIS Pro|TBD      |TBD                                           |
+|[Module 2](https://june-skeeter.github.io/Module2_GEOS270/)|Data Types & Spatial Data Models                                     |TBD      |TBD                                           |
+|[Module 3](https://june-skeeter.github.io/Module3_GEOS270/)|Data Classification & Visualization                                  |TBD      |TBD                                           |
+|[Module 4](https://june-skeeter.github.io/Module4_GEOS270/)|Spatial Analysis & GIS Workflows <br> Final Project Overview         |TBD      |TBD                                           |
+|[Module 5](https://june-skeeter.github.io/Module5_GEOS270/)|Spatial Analysis Cont., Sampling & Interpolation, Uncertainty        |TBD      |TBD                                           |
+|[Module 6](https://june-skeeter.github.io/Module6_GEOS270/)|GIS Applications & Research, Ethics,<br> Exam Review                 |TBD      |TBD                                           |
+|[Final Project](docs/Final_Project.md)                     |Proposal & Report                                                    |TBD      |TBD                                           |
+|[Final Exam](docs/Overview.md/##final-exam)                |Asynchronous on Canvas                                               |TBD      |TBD                                           |
 
 ---
 
 ## Lecture
 
-Lectures are held Tuesday/Thrusday 12:00-14:00 in room 101 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)
+Lectures are held Tuesday/Thrusday 12:30-14:00 in room 22 of the Geography building.  Lectures will also be streamed [on zoom](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)
 
 ---
 
 ## Lab Sections
 
 
-You must be registered for one of the following lab sections, which will meet 2x week each throughout the term.  Lab attendance is strongly encouraged, but is not mandatory.  
+You must be registered for one of the following lab sections, which will meet 2x week each throughout the term.  Lab attendance is strongly encouraged, but is not mandatory.  All labs will meet in person in the Geography computer lab (room 115).
 
-|Lab |           Time slot         |Location                                                                      |
-|----|------------------------------|-----------------------------------------------------------------------------------|
-|L1A |Tuesday/Tursday 15:00-17:00     |In Person, Room 115 Geography Building |
-|L1B |Wednesday/Friday 10:00-12:00     |[Zoom Link](https://ubc.zoom.us/j/68713181849?pwd=SThIWUkvVTVtbkpwME11c1NDYlFVZz09)|
+|Lab |   Time slot            |
+|----|------------------------|
+|L1A |Tuesday 16:00-18:00     |
+|L1B |Tuesday 10:00-12:00     |
+|L1C |Wednesday 12:00-14:00   |
+|L1D |Friday 14:00-16:00      |
 
 ---
 
@@ -74,7 +76,7 @@ You must be registered for one of the following lab sections, which will meet 2x
 | Pronouns | They/Them/Theirs |
 | Email | june.skeeter@ubc.ca |
 | Office | Room 144, Geography Bldg. |
-| Office Hours| Tuesdays/Thursdays<br>**Before** lecture 10:00-12:00 & **after** lecture 14:00-15:00 <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment* |
+| Office Hours| Tuesdays/Thursdays<br>**After** lecture 14:00-15:00 <br> Or [on zoom](https://ubc.zoom.us/j/66359522453?pwd=ZzZUMzV3NVY1V3pzcmYzZFBadW93UT09) *by appointment* |
 
 <img src="docs/images/June.jpg" alt="missing" class="inline" width="250"/>
 
@@ -88,7 +90,7 @@ I use GIS extensively is my research on climate change in the wetland ecosystems
 
 ---
 
-## Your TA
+## Your TAs
 
 | Name | Andrea Ku |
 | Pronouns | She/Her/Hers |
